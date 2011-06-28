@@ -17,3 +17,9 @@ We used American Apparel:
 Colors:
 
 * White ink on a dark shirt.  We used asphalt-colored shirts; you'll want to pick a different color to identify your group as a different chapter.  Try eggplant, navy blue, black, or another color that you like.
+
+Files:
+
+* PDF: most printer-friendly version
+* SVG: can be edited in Inkscape
+* JPG: for sticking on the website & blogs if needed
