@@ -38,6 +38,6 @@ Ingredients
 Instructions
 -------------
 
-TODO: Each ingredient from above will soon have its own list of detailed instructions.  
+TODO: Each ingredient from above will needs its own detailed instructions page.  
 
 Copy our model (fork & contribute).  Or fork and make it completely different.  We'll support, guide, and help you no matter how you brand your group, or what language or audience you focus on.
