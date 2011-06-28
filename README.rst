@@ -45,6 +45,8 @@ Copy our model (fork & contribute).  Or fork and make it completely different.  
 Samples
 --------
 
+TODO: Linkify this
+
 * PyLadies LA
 
 We've also mentored and guided the following groups:  
