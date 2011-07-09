@@ -4,8 +4,10 @@ PyLadies Kit
 
 An open-source kit for starting your own PyLadies chapter in your city.  PyLadies is part social club, part stepping stone toward the Python open-source world.
 
-Ingredients
+What you need
 -------------
+
+Do adapt this list to your needs/time constraints:
 
 * 2-10 Python lady developers who want to be local PyLadies chapter organizers
 
