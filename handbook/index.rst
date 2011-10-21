@@ -276,7 +276,7 @@ Guidelines for using the PyLadies promotion channels
 Anything of interest to women in the Python community can be posted in
 the various PyLadies channels, provided that it meets these guidelines:
 
-#. Send us the actual text that you want posted.  
+#. **Send us the actual text that you want posted.**
 #. For local PyLadies chapter events: 
 
    * Send text for as many events as possible to the channels listed above.
