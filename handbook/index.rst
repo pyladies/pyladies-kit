@@ -270,6 +270,35 @@ always looking for good quotes and photos from Python developer women.
 PyLadies will email all chapter organizers a reminder to send in event
 info for your local chapter for the global mailing list each month.
 
+Guidelines for using the PyLadies promotion channels
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Anything of interest to women in the Python community can be posted in
+the various PyLadies channels, provided that it meets these guidelines:
+
+#. Send us the actual text that you want posted.  
+#. For local PyLadies chapter events: 
+
+   * Send text for as many events as possible to the channels listed above.
+     The more we can promote your events, the better.
+#. For non-chapter events and general postings:
+
+   * Postings should be relevant to women.  Mention the women organizing 
+     and/or attending the event.  Have their names link to their websites or 
+     Twitter accounts. 
+   * Don't just reuse the same blurb that you use everywhere; customize it to
+     be relevant to our audience.
+   * We'd love to use the various channels to feature what PyLadies from 
+     everywhere are doing.  If you know of someone who should be featured, 
+     you can write up something interesting for the blog, Twitter stream, etc.
+   * If you are hosting a Python community event or conference and need our
+     help getting more women to attend, submit proposals, etc., a heartfelt
+     explanation about why more women should attend and feel welcome goes a
+     long way. A PyLadies discount code also helps: keep in mind that a huge 
+     part of our audience are students/those just starting out professionally
+     with Python, who cannot afford to commit to events or submit 
+     proposals unless there is a known, guaranteed PyLadies discount.
+
 Finding Sponsors/Raising Funds
 ------------------------------
 
