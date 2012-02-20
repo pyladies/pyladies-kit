@@ -2,7 +2,7 @@
 PyLadies Handbook
 =================
 
-SO YOU’VE DECIDED TO START YOUR OWN PYLADIES CHAPTER
+So You’ve Decided to Start Your Own PyLadies Chapter
 ----------------------------------------------------
 
 YAY! We’re excited to have people like you join our growing community
@@ -14,8 +14,7 @@ the right foot!
 
 To help you get started, we’ve created an open-source kit for starting
 your own PyLadies chapter in your city. PyLadies is part social club,
-part stepping stone toward the Python open-source world. (Whiskey
-optional.)
+part stepping stone toward the Python open-source world.
 
 What you need
 -------------
@@ -72,7 +71,8 @@ Chapter Size
 ~~~~~~~~~~~~
 
 It’s fine if your chapter is small. Having just 2-3 women who meet
-regularly to exchange Python tips and tricks counts as a chapter.
+regularly to exchange Python tips and tricks counts as a chapter. What matters 
+most is quality, not quantity.
 
 Larger chapters have more flexibility to organize different types of
 events, but it’s harder to get everyone together for dinner.
@@ -80,7 +80,7 @@ events, but it’s harder to get everyone together for dinner.
 Initial setup of your chapter
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Email <pyladies point of contact person ???> with the following info:
+Email info@pyladies.com with the following info:
 
 #. Names/emails of co-organizers.
 #. Desired subdomain for your chapter
@@ -130,15 +130,15 @@ Meet: at a bar or restaurant
 Workshops
 ~~~~~~~~~
 
-You can host workshops either as full-day events every 1-6 months or so,
-or as evening events that occur weekly.
+You can host workshops either as full-day events every 1-3 months or so,
+or as evening events that occur weekly. 
 
 Intro to Python
 ^^^^^^^^^^^^^^^
 
-#. PyStar
-#. Learn Python the Hard Way
-#. How to Think Like a Computer Scientist
+#. [TODO: add link for LA PyLadies' own Intro to Python slides]
+#. PyStar has some great tutorials for beginners.
+#. Learn Python the Hard Way by Zed Shaw
 #. custom (depending on your needs)
 
 Intro to Django
@@ -146,8 +146,7 @@ Intro to Django
 
 #. Poll tutorial from
    `docs.djangoproject.com <http://docs.djangoproject.com>`_
-#. PyStar?
-#. Sandy’s/Danny’s slides from their respective tutorials?
+#. Sandy Strong's `Intro to Django Workshop slides <http://bit.ly/qMcEAT>`_
 
 Other topic of interest workshop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -163,7 +162,9 @@ Hackathons/Sprints
 LA PyLadies has hosted hackathons where attendees bring laptops and
 projects of their own to work on. Beginners are pointed to
 `learnpythonthehardway.org <http://learnpythonthehardway.org>`_ and
-instructed to work through the tutorial, asking for help as needed.
+instructed to work through the tutorial, asking for help as needed. They are 
+urged to post exercises to Github, as a way to dip their toes in the world
+of open source sofware. 
 
 Hackathons can be evening, full-day, or all-weekend events.
 
@@ -211,7 +212,8 @@ What you can do to prepare together:
    user group.
 
 Conferences can be stressful, but they’re also a lot of fun,
-particularly if you’re attending with a friend or a small group.
+particularly if you’re attending with a friend or a small group. There's
+also a good chance you will run into PyLadies from other chapters!
 
 Promotion
 ---------
@@ -248,9 +250,9 @@ How we can help
 Email the main point of contact for any of the following channels, and
 provide text and/or images for us to use:
 
-#. Global PyLadies Newsletter: Submissions for each month must be
-   received by the 28th of the previous month. Keep the text brief and
-   include an image. (esther@pyladies.com)
+#. Global PyLadies Newsletter: Esther can set up a monthly email reminder 
+   for anyone who wants to contribute to the newsletter. Keep the text 
+   brief and include an image. (esther@pyladies.com)
 #. PyLadies blog: we would love for you to contribute posts to our blog!
    (esther@pyladies.com)
 #. @pyladies Twitter account (katharine@pyladies.com)
@@ -287,7 +289,7 @@ the various PyLadies channels, provided that it meets these guidelines:
      and/or attending the event.  Have their names link to their websites or 
      Twitter accounts. 
    * Don't just reuse the same blurb that you use everywhere; customize it to
-     be relevant to our audience.
+     be relevant to the specific audience you're addressing.
    * We'd love to use the various channels to feature what PyLadies from 
      everywhere are doing.  If you know of someone who should be featured, 
      you can write up something interesting for the blog, Twitter stream, etc.
@@ -306,20 +308,17 @@ If your chapter is small, you don’t necessarily need sponsors. Hosting
 chapter meetups at coffee shops, restaurants, or people’s houses is
 fine.
 
-You’ll need at least venue sponsors if you plan on hosting large events
-(e.g. hackathons).
-
-Also, you may want to organize trips, conferences, and other types of
-more costly events. If so, you will need to raise local chapter funds.
+However, you may want to organize trips, conferences, and other types of
+more costly events. If so, you will need to raise local chapter funds
+and ask local Python shops to consider sponsoring an event.
 
 Venue Sponsors
 ~~~~~~~~~~~~~~
-
 Research local companies and approach them. Often, a company that
 already hosts other meetups will be willing to host your PyLadies
 chapter. Ask them if they’ll provide pizza/drinks; if not, charge
 attendees a fee that covers food (and more, if you want to use the funds
-for future events).
+for future events). 
 
 PSF Grant Programs
 ~~~~~~~~~~~~~~~~~~
@@ -328,11 +327,10 @@ See our sample PSF grant proposal to raise money for t-shirts, tables,
 and chairs:
 `https://github.com/pyladies/pyladies-kit/blob/master/grant-proposals/sample-hackathon.pdf?raw=true <>`_
 
-Also see our sample Python Sprints grant proposal to raise money for
-food, power strips, name tags, and anything else you might need to run a
+You can apply for a Python Sprints grant to raise money for food, power 
+strips, name tags, and anything else you might need to run a
 sprint/hackathon, up to $300:
 
-(TODO: add link here)
 
 Selling t-shirts/merchandise
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -456,7 +454,9 @@ usually find several of the main PyLadies points of contact in
 Policies
 --------
 
-We try not to have too many rules and regulations. Generally, chapter
+We try not to have too many rules and regulations (everything above 
+has been nothing more than advice we offer to make things easier for 
+you, given that we learned much of it the hard way). Generally, chapter
 organizers are free to do whatever they want, as long as it’s in the
 best interest of their local chapter and/or PyLadies in general.
 
@@ -562,7 +562,3 @@ Ask in IRC #pyladies on `irc.freenode.net <http://irc.freenode.net>`_ if
 you must. But feel free to organize your PyLadies chapter however you
 wish, and make it completely your own. We’re here to help you, not to
 limit you or control your plans.
-
-`[a] <#cmnt_ref1>`_jackiekazil:
-
-link? more info?
