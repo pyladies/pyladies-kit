@@ -71,7 +71,7 @@ Chapter Size
 ~~~~~~~~~~~~
 
 It’s fine if your chapter is small. Having just 2-3 women who meet
-regularly to exchange Python tips and tricks counts as a chapter. What matters 
+regularly to exchange Python tips and tricks counts as a chapter. What matters
 most is quality, not quantity.
 
 Larger chapters have more flexibility to organize different types of
@@ -95,7 +95,7 @@ Email info@pyladies.com with the following info:
 Create at least one of the following:
 
 #. a group on Meetup.com for your chapter (recommended; ask us about
-   sponsorship if you need help with fees)
+   sponsorship if you need help with the Meetup subscription fees)
 #. a website and mailing list for your chapter (note: Meetup.com has
    this built in; consider using that to simplify things)
 
@@ -131,7 +131,7 @@ Workshops
 ~~~~~~~~~
 
 You can host workshops either as full-day events every 1-3 months or so,
-or as evening events that occur weekly. 
+or as evening events that occur weekly.
 
 Intro to Python
 ^^^^^^^^^^^^^^^
@@ -162,9 +162,9 @@ Hackathons/Sprints
 LA PyLadies has hosted hackathons where attendees bring laptops and
 projects of their own to work on. Beginners are pointed to
 `learnpythonthehardway.org <http://learnpythonthehardway.org>`_ and
-instructed to work through the tutorial, asking for help as needed. They are 
+instructed to work through the tutorial, asking for help as needed. They are
 urged to post exercises to Github, as a way to dip their toes in the world
-of open source sofware. 
+of open source sofware.
 
 Hackathons can be evening, full-day, or all-weekend events.
 
@@ -177,8 +177,7 @@ for details.
 
 The IRC #pyladies channel is always available for anyone to use for
 virtual meetups. Feel free to use it without asking, or create a
-#pyladies-whatever channel if you prefer. If you need help registering
-your channel, ask sandy@pyladies.com.
+#pyladies-whatever channel if you prefer.
 
 Meetups as part of a Python user group (PUG) meetup
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -250,27 +249,21 @@ How we can help
 Email the main point of contact for any of the following channels, and
 provide text and/or images for us to use:
 
-#. Global PyLadies Newsletter: Esther can set up a monthly email reminder 
-   for anyone who wants to contribute to the newsletter. Keep the text 
-   brief and include an image. (esther@pyladies.com)
+#. Global PyLadies Newsletter: Good for announcements about meetups.
+   Subscribers from all over the world. Please keep the text
+   brief and include an image. (info@pyladies.com)
 #. PyLadies blog: we would love for you to contribute posts to our blog!
-   (esther@pyladies.com)
-#. @pyladies Twitter account (katharine@pyladies.com)
-#. PyLadies Facebook page (katharine@pyladies.com)
-#. PyLadies Flickr photostream: send us flyer jpgs before your event,
-   and select photos after your event
+   It's as simple as forking and then making a pull request off
+   http://github.com/pyladies/pyladies
 
 In addition, promote all of your events directly through the following:
-
 6. PyLadies Google group: http://groups.google.com/group/pyladies
-7. #pyladies IRC channel
+7. #pyladies IRC channel (FreeNode)
 
-Whenever you have news of interest to the PyLadies community, all of the
+Whenever you have news of interest to the PyLadies community, all the
 above channels are available to help you make your announcement. We are
 always looking for good quotes and photos from Python developer women.
 
-PyLadies will email all chapter organizers a reminder to send in event
-info for your local chapter for the global mailing list each month.
 
 Guidelines for using the PyLadies promotion channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -279,26 +272,26 @@ Anything of interest to women in the Python community can be posted in
 the various PyLadies channels, provided that it meets these guidelines:
 
 #. **Send us the actual text that you want posted.**
-#. For local PyLadies chapter events: 
+#. For local PyLadies chapter events:
 
    * Send text for as many events as possible to the channels listed above.
      The more we can promote your events, the better.
 #. For non-chapter events and general postings:
 
-   * Postings should be relevant to women.  Mention the women organizing 
-     and/or attending the event.  Have their names link to their websites or 
-     Twitter accounts. 
+   * Postings should be relevant to women.  Mention the women organizing
+     and/or attending the event.  Have their names link to their websites or
+     Twitter accounts.
    * Don't just reuse the same blurb that you use everywhere; customize it to
      be relevant to the specific audience you're addressing.
-   * We'd love to use the various channels to feature what PyLadies from 
-     everywhere are doing.  If you know of someone who should be featured, 
+   * We'd love to use the various channels to feature what PyLadies from
+     everywhere are doing.  If you know of someone who should be featured,
      you can write up something interesting for the blog, Twitter stream, etc.
    * If you are hosting a Python community event or conference and need our
      help getting more women to attend, submit proposals, etc., a heartfelt
      explanation about why more women should attend and feel welcome goes a
-     long way. A PyLadies discount code also helps: keep in mind that a huge 
+     long way. A PyLadies discount code also helps: keep in mind that a huge
      part of our audience are students/those just starting out professionally
-     with Python, who cannot afford to commit to events or submit 
+     with Python, who cannot afford to commit to events or submit
      proposals unless there is a known, guaranteed PyLadies discount.
 
 Finding Sponsors/Raising Funds
@@ -318,16 +311,25 @@ Research local companies and approach them. Often, a company that
 already hosts other meetups will be willing to host your PyLadies
 chapter. Ask them if they’ll provide pizza/drinks; if not, charge
 attendees a fee that covers food (and more, if you want to use the funds
-for future events). 
+for future events).
+
+Fiscal Sponsorship from the PSF
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The `Python Software Foundation <http://python.org/psf>`_ has been very supportive of PyLadies.
+They have a `special donation page <https://psfmember.org/civicrm/contribute/transact?reset=1&id=6>`_,
+where donors can use PayPal to make donations directly to the PSF that are
+tax-deductible, which can then be used to reimburse PyLadies organizers who
+pay for various event costs.
+
 
 PSF Grant Programs
 ~~~~~~~~~~~~~~~~~~
 
-See our sample PSF grant proposal to raise money for t-shirts, tables,
+See our `sample PSF grant proposal to raise money for t-shirts, tables,
 and chairs:
-`https://github.com/pyladies/pyladies-kit/blob/master/grant-proposals/sample-hackathon.pdf?raw=true <>`_
+<https://github.com/pyladies/pyladies-kit/blob/master/grant-proposals/sample-hackathon.pdf?raw=true>`_
 
-You can apply for a Python Sprints grant to raise money for food, power 
+You can apply for a Python Sprints grant to raise money for food, power
 strips, name tags, and anything else you might need to run a
 sprint/hackathon, up to $300:
 
@@ -374,27 +376,6 @@ have the proceeds go toward your chapter.
 
 Or you can have a local print shop print a small run.
 
-Setting up a bank account, nonprofit, etc.
-------------------------------------------
-
-If you’re hosting events that cost a fee, or if you’re selling
-merchandise, you may want to set up a bank account.
-
-We are in the process of setting up a US 501(c)3 nonprofit. Once this is
-set up, we will be able to collect large sponsor donations on your
-behalf and transfer them to your chapter.
-
-You are free to set up a nonprofit for your local chapter if you wish to
-do so. But do so only if you need it, e.g. if you want to accept money
-from large sponsors as a tax-deductible donation without going through
-us. You should consider carefully the various pros/cons of incorporating
-as a non-profit.
-
-We especially need the help of PyLadies in other countries with setting
-up nonprofits outside of the US, to benefit local chapters in other
-countries. If you are interested in setting up a formal non-US nonprofit
-organization for PyLadies chapters in your country, contact Jess
-(tiny\_mouse@pyladies.com).
 
 IRC #pyladies Community
 -----------------------
@@ -407,8 +388,6 @@ on how to chat in #pyladies IRC:
 Quite a few well-known men and women in the Python community participate
 there and try to keep it a friendly place. Ask Python questions there,
 talk about what your local chapter is up to, or just say hi.
-
-If you’re shy and need an introduction, send audreyr a private message.
 
 Anyone can plan and host virtual meetups in IRC #pyladies. You should
 host one! Just tell one of the ops to update the topic with info about
@@ -442,20 +421,17 @@ How to use it:
 Points of Contact
 -----------------
 
-We’re here to help you! We have a spreadsheet that lists contact info
-for all PyLadies officers and chapter organizers. To request access,
-email `esther@pyladies.com <mailto:esther@pyladies.com>`_ and she’ll
-share it with you.
+info@pyladies.com is the best place to shoot any questions you may have
 
-If you have questions, IRC is one of the best places to start. You can
-usually find several of the main PyLadies points of contact in
+If you have more casual questions, IRC is one of the best places to start.
+You can usually find several of the main PyLadies points of contact in
 #pyladies.
 
 Policies
 --------
 
-We try not to have too many rules and regulations (everything above 
-has been nothing more than advice we offer to make things easier for 
+We try not to have too many rules and regulations (everything above
+has been nothing more than advice we offer to make things easier for
 you, given that we learned much of it the hard way). Generally, chapter
 organizers are free to do whatever they want, as long as it’s in the
 best interest of their local chapter and/or PyLadies in general.
@@ -531,9 +507,6 @@ Even if you don’t have an official chapter, you can use the graphics for
 anything women-in-Python related, as long as any funds resulting from
 your use of the graphics go toward Python gender diversity initiatives.
 
-Need graphic editing help? Ask
-`audreyr@pyladies.com <mailto:audreyr@pyladies.com>`_ or
-`christine@pyladies.com <mailto:christine@pyladies.com>`_.
 
 Can transgender women be PyLadies?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
