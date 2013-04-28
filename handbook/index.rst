@@ -514,8 +514,17 @@ Can transgender women be PyLadies?
 Anyone who considers herself a lady and does Python is a PyLady/Python
 lady. We support all women, whether female by birth or not.
 
-If you’re a trans-woman, we encourage you to be open about it in the
-PyLadies community. Doing so will help other trans-women feel welcome.
+We encourage you sure to make trans women feel welcome by saying so in your
+meetup group and event descriptions. Here is an example of a statement you
+could include:
+
+    PyLadies [city] is welcoming to and respectful of trans women. We
+    encourage all women to come out to our meetups.
+
+If the idea of trans people is new to you, you might want to take a look at
+`this fantastic illustrated book about gender <http://www.thegenderbook.com>`_,
+`this comic <http://www.roostertailscomic.com/?p=1495>`_, or any of the
+many other introductions to trans issues on the internet.
 
 Is your goal to segregate by gender?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
