@@ -136,7 +136,7 @@ or as evening events that occur weekly.
 Intro to Python
 ^^^^^^^^^^^^^^^
 
-#. [TODO: add link for LA PyLadies' own Intro to Python slides]
+#. Austin PyLadies `Intro to Python <https://github.com/pyladiesatx/pyladiesatx/tree/master/classes/python_intro>`
 #. PyStar has some great tutorials for beginners.
 #. Learn Python the Hard Way by Zed Shaw
 #. custom (depending on your needs)
