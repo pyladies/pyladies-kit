@@ -190,6 +190,10 @@ Anything to encourage women to attend and continue attending PUGs is
 great. Talk to your local PUG organizers and ask for their help and
 support in having a post-PUG informal PyLadies meetup.
 
+You might also consider trying to give a :doc:`talks/beginner` at a 
+meetup. This can help bring more beginners who might otherwise be 
+scared away to the group.
+
 Code review sessions
 ~~~~~~~~~~~~~~~~~~~~
 
