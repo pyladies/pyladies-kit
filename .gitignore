@@ -4,3 +4,5 @@
 local_settings.py
 _build/
 .DS_Store
+build/
+*.egg*

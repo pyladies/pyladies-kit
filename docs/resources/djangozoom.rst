@@ -1,3 +1,5 @@
+.. _djangozoom:
+
 ===============================
 DjangoZoom Beginner Walkthrough
 ===============================

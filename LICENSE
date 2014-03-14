@@ -1,0 +1,5 @@
+The PyLadies Kit is licensed under a Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/
+
+You are free to use all the graphics in this kit to print your own t-shirts, stickers, and other merchandise with one restriction: if you are selling these items, marking up the price is fine as long as profits goes toward anything women in Python/open-source/computing related. (We encourage you to use merchandise based on graphics in this kit to raise funds for starting or growing your PyLadies chapter, or hosting PyLadies meetups at conferences!)
+
+All code (anything that is not restructured text, markdown, images, and related files for creating the Read the Docs for PyLadies) will have licenses of their own.  Please see the respective packages/modules for license information.
