@@ -28,9 +28,7 @@ setup(name='pyladies',
       url='http://www.pyladies.com',
       description='Everything you need to start your own PyLadies location',
       long_description=long_description,
-      setup_requires=['pbr'],
-      pbr=True,
-      install_requires=['Sphinx==1.2.2', 'sphinx-rtd-theme==0.1.5'],
+      install_requires=['Sphinx', 'sphinx-rtd-theme'],
       packages=['pyladies'],
       include_package_data=True
       )
