@@ -2,6 +2,7 @@
 
 No particular order, and not inclusive:
 
+* `pyladies handbook` command has an "offline" mode
 * Tools & scripts for helping with PyLadies chapter admin management
 * Website contributing & local chapter website creation how-to
 * Global Newsletter how-to
