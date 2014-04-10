@@ -29,23 +29,36 @@ Copy our model (fork & contribute). Or fork and make it completely different. We
 Checklist
 ---------
 
-You may of course adapt this list to meet your chapter’s needs: 
+Here's all of what needs to be done to start a PyLadies chapter locally.  You may of course adapt this list to meet your chapter’s needs.
+
+**PART 1**
 
 .. raw:: html
 
 	<form action="">
 	<ul>
-		<li><input type="checkbox" name="coorgs" value="">If you need, find some co-organizers to help with organization and planning</input></li>
-		<li><input type="checkbox" name="namespace" value="">Decide the namespace of your chapter (e.g. <code>portland.pyladies.com</code> or <code>pdx.pyladies.com</code>, same with email addresses).</input></li>
-		<li><input type="checkbox" name="reqform" value="">Fill out the initial PyLadies chapter request form to get your namespace setup for your chapter domain and email.</input></li>
-		<li><input type="checkbox" name="social" value="">Sign up for Twitter, Facebook, Google+ and/or any social network that would be effective in your location.  We suggest to use your @pyladies.com email.</input></li>
-		<li><input type="checkbox" name="meetup" value="">Start up a Meetup.com group for your location.</input></li>
-		<li><input type="checkbox" name="reimbursement" value="">File for a reimbursement for Meetup fees to the Python Software Foundation.</input></li>
-		<li><input type="checkbox" name="heroku" value="">Sign up for a Heroku account (free) if you have not already.</input></li>
-		<li><input type="checkbox" name="contactform" value="">Fill out the PyLadies resource form for contact information, all chapter information, etc.</input></li>
-		<li><input type="checkbox" name="globalorglist" value="">Request to join the PyLadies Global Organizers list.</input></li>
-		<li><input type="checkbox" name="eventplanning" value="">At minimum, try to hold one event a month -- this helps keep interest in PyLadies from flagging, and helps people maintain their progress in becoming better developers. You can hold more events with proper support and planning.</input></li>
-		<li><input type="checkbox" name="prompote" value="">Promote the start of the group via various local channels, including meetup.com, local PUGs, related groups, and universities.</input></li>
+		<ol><input type="checkbox" name="coorgs" value="">If you need, find some co-organizers to help with organization and planning.</input></ol>
+		<ol><input type="checkbox" name="namespace" value="">Decide the namespace of your chapter (e.g. <code>portland.pyladies.com</code> or <code>pdx.pyladies.com</code>, same with email addresses).</input></ol>
+		<ol><input type="checkbox" name="reqform" value="">Fill out the <a href="https://docs.google.com/forms/d/18GjETzcU1KeqdrOMASeyCCNyl_wvWKpunUauLt6opS8/viewform">initial PyLadies chapter interest form</a> to get your namespace setup for your chapter domain and email.</input></ol>
+	</ul>
+	</form>
+
+Once you have received a confirmation that the the initial PyLaides request form was approved and setup, continue on:
+
+**PART 2**
+
+.. raw:: html
+
+	<form action="">
+	<ul>
+		<ol><input type="checkbox" name="social" value="">Sign up for Twitter, Facebook, Google+ and/or any social network that would be effective in your location.  We suggest to use your @pyladies.com email.</input></ol>
+		<ol><input type="checkbox" name="meetup" value="">Start up a Meetup.com group for your location.</input></ol>
+		<ol><input type="checkbox" name="reimbursement" value="">File for a reimbursement for Meetup fees to the Python Software Foundation.</input></ol>
+		<ol><input type="checkbox" name="heroku" value="">Sign up for a Heroku account (free) if you have not already.</input></ol>
+		<ol><input type="checkbox" name="contactform" value="">Fill out the <a href="https://docs.google.com/forms/d/1f1jCD_XOf-06ifZkuSvAdCG9_Me0FnDWNxLQZY-JktU/viewform">PyLadies resource form</a> for contact information, all chapter information, etc.</input></ol>
+		<ol><input type="checkbox" name="globalorgolst" value="">Request to join the <a href="https://groups.google.com/d/forum/pyladies-group-organizers">PyLadies Global Organizers list.</a></input></ol>
+		<ol><input type="checkbox" name="eventplanning" value="">At minimum, try to hold one event a month -- this helps keep interest in PyLadies from flagging, and helps people maintain their progress in becoming better developers. You can hold more events with proper support and planning.</input></ol>
+		<ol><input type="checkbox" name="prompote" value="">Promote the start of the group via various local channels, including meetup.com, local PUGs, related groups, and universities.</input></ol>
 	</ul>
 	</form>
 
