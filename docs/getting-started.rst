@@ -52,8 +52,8 @@ Once you have received a confirmation that the the initial PyLaides request form
 	<form action="">
 	<ul>
 		<ol><input type="checkbox" name="social" value="">Sign up for Twitter, Facebook, Google+ and/or any social network that would be effective in your location.  We suggest to use your @pyladies.com email.</input></ol>
-		<ol><input type="checkbox" name="meetup" value="">Start up a Meetup.com group for your location.</input></ol>
-		<ol><input type="checkbox" name="reimbursement" value="">File for a reimbursement for Meetup fees to the Python Software Foundation.</input></ol>
+		<ol><input type="checkbox" name="meetup" value="">Start up a Meetup.com group for your location.  <br><blockquote><b>Tip:</b> Uber-frugal?  Get half-price Meetup fees!  Complete all of the Meetup forms, but stop when you reach the payment page. In 24 hours, you will receive an e-mail from Meetup.com, with a link to complete the payment process at half price. :) </blockquote></input></ol>
+		<ol><input type="checkbox" name="reimbursement" value="">File for a reimbursement for Meetup fees to the Python Software Foundation by following <a href="https://www.python.org/psf/grants">their grant process</a>.</input></ol>
 		<ol><input type="checkbox" name="heroku" value="">Sign up for a Heroku account (free) if you have not already.</input></ol>
 		<ol><input type="checkbox" name="contactform" value="">Fill out the <a href="https://docs.google.com/forms/d/1f1jCD_XOf-06ifZkuSvAdCG9_Me0FnDWNxLQZY-JktU/viewform">PyLadies resource form</a> for contact information, all chapter information, etc.</input></ol>
 		<ol><input type="checkbox" name="globalorgolst" value="">Request to join the <a href="https://groups.google.com/d/forum/pyladies-group-organizers">PyLadies Global Organizers list.</a></input></ol>
