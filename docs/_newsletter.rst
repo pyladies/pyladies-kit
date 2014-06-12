@@ -1,7 +1,0 @@
-.. _newsletter:
-
-Newsletter
-==========
-
-
-blahblahblah
