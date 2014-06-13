@@ -1,6 +1,10 @@
 
 CHANGES
 
+#### v2.0.2
+
+* Fixed entry point, thanks to `Kyle Kelley <https://github.com/rgbkrk>`_
+* Added newsletter information, thanks to `Esther Nam <https://github.com/estherbester>`_
 
 #### v2.0 PyPI Release
 

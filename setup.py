@@ -20,7 +20,7 @@ def read(*filenames, **kwargs):
 long_description = read('README.md', 'CHANGES.md')
 
 setup(name='pyladies',
-      version='2.0.1',
+      version='2.0.2',
       author=u'Lynn Root',
       author_email='lynn@pyladies.com',
       license="Creative Commons Attribution-ShareAlike 3.0 Unported",
@@ -30,9 +30,9 @@ setup(name='pyladies',
       long_description=long_description,
       install_requires=['Sphinx', 'sphinx-rtd-theme'],
       packages=['pyladies'],
-      entry_points = {
+      entry_points={
           'console_scripts': [
-            'pyladies = pyladies.main:main'
+              'pyladies = pyladies.main:main'
           ]
       },
       include_package_data=True
