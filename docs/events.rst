@@ -135,7 +135,7 @@ To host an event
 	* Often times, it's hard to get all-female mentors.  Most of the time, male mentors are very nice and helpful.
 * A few days before the event, email RSVP'd folks to update their RSVP status if they are no longer going.  This is especially nice if folks are on a waiting list for the event.
 * Arrive a little early; folks will always arrive before doors officially open
-* Have nametags for attendees.  If having a workshop, have mentors where nametags and perhaps a special sticker or something to designate that they are mentors.
+* Have nametags for attendees.  If having a workshop, have mentors wear nametags and perhaps a special sticker or something to designate that they are mentors.
 * Post any resources for the event - either before or afterwards.
 * Have fun!
 
