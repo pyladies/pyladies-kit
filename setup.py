@@ -20,7 +20,7 @@ def read(*filenames, **kwargs):
 long_description = read('README.md', 'CHANGES.md')
 
 setup(name='pyladies',
-      version='2.0.2',
+      version='2.0.3',
       author=u'Lynn Root',
       author_email='lynn@pyladies.com',
       license="Creative Commons Attribution-ShareAlike 3.0 Unported",
