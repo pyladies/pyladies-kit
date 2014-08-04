@@ -6,7 +6,7 @@ Frequently Asked Questions
 Can men attend local PyLadies chapter events?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It’s up to you. Generally, it’s good to hold women-only events as wellas events for both genders (either women and +1 guests, or anyone who wants to attend). Just be aware that the dynamic of the room tends to change when the male:female ratio becomes lopsided.
+It’s up to you. Generally, it’s good to hold women-only events as well as events for both genders (either women and +1 guests, or anyone who wants to attend). Just be aware that the dynamic of the room tends to change when the male:female ratio becomes lopsided.
 
 A good way to hold a mixed-gender event is to partner with a local Python user group.
 
