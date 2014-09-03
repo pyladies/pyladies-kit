@@ -89,7 +89,7 @@ Summary
  
 Further reading
 --------------- 
-* [women-specific] (http://bossmomonline.com/2011/06/avoid-volunteer-burnout-in-the-new-year/)
-* [context is church volunteering but similar principles] (http://www.behindthemixer.com/how-deal-burnout-steps-i-take/)
-* [general] (http://money.howstuffworks.com/economics/volunteer/information/volunteer-burnout2.htm)
-* [non-profit/activist] (http://www.toolsforchange.net/2012/01/14/cheyennas-tips-for-avoiding-burnout/)
+* `women-specific <http://bossmomonline.com/2011/06/avoid-volunteer-burnout-in-the-new-year/>`_
+* `context is church volunteering but similar principles <http://www.behindthemixer.com/how-deal-burnout-steps-i-take/>`_
+* `general <http://money.howstuffworks.com/economics/volunteer/information/volunteer-burnout2.htm>`_
+* `non-profit/activist <http://www.toolsforchange.net/2012/01/14/cheyennas-tips-for-avoiding-burnout/>`_
