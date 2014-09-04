@@ -81,3 +81,9 @@ Many companies are looking for ways to give back to the developer community. You
 See our sample info packet at upload sponsorship doc to git repo. Borrow ideas from it, and customize it to fit your chapter.
 
 .. _Barbara Sharette: https://twitter.com/bshaurette
+
+
+Dealing with volunteer/organizer burnout
+----------------------------------------
+Organizing a PyLadies chapter is hard work, and no less for the people who volunteer to help out. :ref:`burnout` is a page to help recognize and deal with signs of burnout.
+
