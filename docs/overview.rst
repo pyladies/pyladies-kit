@@ -3,8 +3,6 @@
 Overview
 ========
 
-.. _about:
-
 About
 =====
 
