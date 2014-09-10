@@ -61,7 +61,7 @@ PSF Grant Programs
 
 See our sample `PSF grant proposal`_ to raise money for t-shirts, tables, and chairs.
 
-.. _PSF grant proposal: https://github.com/pyladies/pyladies-kit/blob/master/grant-proposals/sample-hackathon.pdf?raw=true
+.. _PSF grant proposal: https://github.com/pyladies/pyladies-kit/blob/master/docs/grant-proposals/sample-hackathon.pdf?raw=true
 
 You can apply for a Python Sprints grant to raise money for food, power strips, name tags, and anything else you might need to run a sprint/hackathon, up to $300:
 
