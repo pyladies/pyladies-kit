@@ -44,6 +44,12 @@ No! PyLadies and local PyLadies chapters are about making the Python community e
 
 Women who wouldn’t otherwise attend a Python user group meeting often attend local PyLadies chapter events, as a gateway to getting involved with Python programming as a beginner, or getting more involved in the Python community as an intermediate/advanced developer.
 
+How do I set up reimbursement for Meetup fees?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The PSF will most likely reimburse your Meetup.com organizer fees for a local Pyladies meetup. You
+can :doc: `submit </getting-started>` a grant proposal, and :doc:`here </grant-proposals/sample-meetup-proposal>` is a sample grant proposal to get you started.
+
 What if my question isn’t answered here?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
