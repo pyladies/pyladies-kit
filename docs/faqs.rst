@@ -47,8 +47,8 @@ Women who wouldn’t otherwise attend a Python user group meeting often attend l
 How do I set up reimbursement for Meetup fees?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The PSF will most likely reimburse your Meetup.com organizer fees for a local Pyladies meetup. You
-can :doc: `submit </getting-started>` a grant proposal, and :doc:`here </grant-proposals/sample-meetup-proposal>` is a sample grant proposal to get you started.
+The PSF will `most likely reimburse <http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html>`_ your Meetup.com organizer fees for a local Pyladies meetup. You
+can :doc:`submit <getting-started>` a grant proposal, and :doc:`here </grant-proposals/sample-meetup-proposal>` is a sample grant proposal to get you started.
 
 What if my question isn’t answered here?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
