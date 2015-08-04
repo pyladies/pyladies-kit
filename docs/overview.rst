@@ -12,22 +12,22 @@ PyLadies also aims to provide a friendly support network for women and a bridge 
 
 
 
-Types of Chapters
------------------
+Types of Local Groups
+-------------------------
 
-A chapter can be:
+A local group can be:
 
-#. a geographic chapter: for a city, region, state, or country
-#. a student chapter: for a university, college, or school
-#. an interest group chapter: for any topic (e.g. PyGame, SciPy, Django)
+#. a geographic group: for a city, region, state, or country
+#. a student group: for a university, college, or school
+#. an interest group: for any topic (e.g. PyGame, SciPy, Django)
 
-The larger the chapter, the harder it is to meet in person. Large chapters’ events will be mostly virtual meetups that occur online, whereas small chapters’ events tend to be in-person meetups.
+The larger the local group, the harder it is to meet in person. Large local group's events will be mostly virtual meetups that occur online, whereas small local group's events tend to be in-person meetups.
 
-A chapter can consist of sub-chapters, making both the in-person and virtual meetups possible.
+A local group can consist of sub-local-groups, making both the in-person and virtual meetups possible.
 
-Chapter Size
+Group Size
 ------------
 
-It’s fine if your chapter is small. Having just 2-3 women who meet regularly to exchange Python tips and tricks counts as a chapter. What matters most is *quality*, not quantity.
+It’s fine if your local group is small. Having just 2-3 women who meet regularly to exchange Python tips and tricks counts as a local group. What matters most is *quality*, not quantity.
 
-Larger chapters have more flexibility to organize different types of events, but it’s harder to get everyone together for dinner.
+Larger local groups have more flexibility to organize different types of events, but it’s harder to get everyone together for dinner.

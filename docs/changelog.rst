@@ -9,8 +9,8 @@ v2.0 PyPI Release
 
 * Released on PyPI
 * Added:
-	* Checklists on chapter and event setup
-	* More advice on events and chapter organization
+	* Checklists on group and event setup
+	* More advice on events and group organization
 	* Setup for pip installation
 	* Included CoC
 

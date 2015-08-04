@@ -40,7 +40,7 @@ Intro to Python
 Intro to Django
 ***************
 
-#. Poll tutorial from `Django Docs`_. 
+#. Poll tutorial from `Django Docs`_.
 #. Sandy Strong's `Intro to Django Workshop slides`_.
 
 .. _Django Docs: http://docs.djangoproject.com
@@ -62,7 +62,7 @@ Hackathons can be evening, full-day, or all-weekend events.
 Virtual meetups
 ^^^^^^^^^^^^^^^
 
-PyLadiesAU held their first chapter meeting as a virtual meetup. See `Australian PyLadies`_ for details.
+PyLadiesAU held their first group meeting as a virtual meetup. See `Australian PyLadies`_ for details.
 
 The IRC #pyladies channel is always available for anyone to use for virtual meetups. Feel free to use it without asking, or create a #pyladies-whatever channel if you prefer.
 
@@ -85,7 +85,7 @@ Reviewing someone’s coding project together can help everyone learn better cod
 Conference prep sessions
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Python conferences that might interest your chapter: PyCon, DjangoCon, PloneConf, SciPy (Python for Scientific Computing)
+Python conferences that might interest your group: PyCon, DjangoCon, PloneConf, SciPy (Python for Scientific Computing)
 
 What you can do to prepare together:
 
@@ -94,7 +94,7 @@ What you can do to prepare together:
 #. Practice talks in front of each other, in a small group.
 #. Practice in a larger group, as a joint event with the local Python user group.
 
-Conferences can be stressful, but they’re also a lot of fun, particularly if you’re attending with a friend or a small group. There's also a good chance you will run into PyLadies from other chapters!
+Conferences can be stressful, but they’re also a lot of fun, particularly if you’re attending with a friend or a small group. There's also a good chance you will run into PyLadies from other groups!
 
 
 Event Checklist
@@ -122,7 +122,7 @@ To host an event
 		* Offer time during the event for them to pitch their product(s) and/or any job openings
 		* Ask for a description of the type of space available; feel free to ask to check it out beforehand
 		* Events often need wifi for attendees, and if it's an event longer than a few hours, then easy-to-access power outlets are needed as well
-		* Be mindful of the company's RSVP/check in wishes if they have any.  Do they want First & Last name? Will there be alcohol served, and therefore ID needs to be checked? 
+		* Be mindful of the company's RSVP/check in wishes if they have any.  Do they want First & Last name? Will there be alcohol served, and therefore ID needs to be checked?
 * Once date & event is set with the host, post up the event on Meetup.com group
 	* Be sure to setup the RSVP limits if space is limited.  Apprehend about 50%-60% of RSVPs will actually show up (if it's a free event).
 	* Give an exact address; Meetup.com allows you to hide the address to non-group members.

@@ -2,7 +2,7 @@
 I <3 pyladies: supporting women who code t-shirts
 =========================================================
 
-A shirt designed for both women and men to wear. 
+A shirt designed for both women and men to wear.
 
 Printing Instructions
 ---------------------
@@ -16,7 +16,7 @@ We used American Apparel:
 
 Colors:
 
-* White ink on a dark shirt.  We used asphalt-colored shirts; you'll want to pick a different color to identify your group as a different chapter.  Try eggplant, navy blue, black, or another color that you like.
+* White ink on a dark shirt.  We used asphalt-colored shirts; you'll want to pick a different color to identify your group from the other groups.  Try eggplant, navy blue, black, or another color that you like.
 
 Files:
 

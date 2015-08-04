@@ -11,8 +11,8 @@ CHANGES
 
 * Released on PyPI
 * Added:
-	* Checklists on chapter and event setup
-	* More advice on events and chapter organization
+	* Checklists on local group and event setup
+	* More advice on events and local group organization
 	* Setup for pip installation
 	* Included CoC
 

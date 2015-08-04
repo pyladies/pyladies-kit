@@ -3,7 +3,7 @@
 Frequently Asked Questions
 --------------------------
 
-Can men attend local PyLadies chapter events?
+Can men attend local PyLadies group events?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It’s up to you. Generally, it’s good to hold women-only events as well as events for both genders (either women and +1 guests, or anyone who wants to attend). Just be aware that the dynamic of the room tends to change when the male:female ratio becomes lopsided.
@@ -20,9 +20,9 @@ There doesn’t seem to be a burning need for a PyLadies for Men ;) That said, i
 Can I use the PyLadies logo and graphics for any purpose?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Any of the graphics at `https://github.com/pyladies/pyladies-kit <https://github.com/pyladies/pyladies-kit>`_ can be used for your own chapter promotion. Feel free to use them for websites, printed materials, t-shirts, and anything else that benefits your chapter.
+Any of the graphics at `https://github.com/pyladies/pyladies-kit <https://github.com/pyladies/pyladies-kit>`_ can be used for your own group promotion. Feel free to use them for websites, printed materials, t-shirts, and anything else that benefits your group.
 
-Even if you don’t have an official chapter, you can use the graphics for anything women-in-Python related, as long as any funds resulting from your use of the graphics go toward Python gender diversity initiatives.
+Even if you don’t have an official group, you can use the graphics for anything women-in-Python related, as long as any funds resulting from your use of the graphics go toward Python gender diversity initiatives.
 
 
 Can transgender women be PyLadies?
@@ -40,9 +40,9 @@ If the idea of trans people is new to you, you might want to take a look at `thi
 Is your goal to segregate by gender?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-No! PyLadies and local PyLadies chapters are about making the Python community explicitly welcoming and accessible to women.
+No! PyLadies and local PyLadies groups are about making the Python community explicitly welcoming and accessible to women.
 
-Women who wouldn’t otherwise attend a Python user group meeting often attend local PyLadies chapter events, as a gateway to getting involved with Python programming as a beginner, or getting more involved in the Python community as an intermediate/advanced developer.
+Women who wouldn’t otherwise attend a Python user group meeting often attend local PyLadies group events, as a gateway to getting involved with Python programming as a beginner, or getting more involved in the Python community as an intermediate/advanced developer.
 
 How do I set up reimbursement for Meetup fees?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,4 +53,4 @@ can :doc:`submit <getting-started>` a grant proposal, and :doc:`here </grant-pro
 What if my question isn’t answered here?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ask in IRC #pyladies on `freenode <http://irc.freenode.net>`_ if you must. But feel free to organize your PyLadies chapter however you wish, and make it completely your own. We’re here to help you, not to limit you or control your plans.
+Ask in IRC #pyladies on `freenode <http://irc.freenode.net>`_ if you must. But feel free to organize your PyLadies group however you wish, and make it completely your own. We’re here to help you, not to limit you or control your plans.
