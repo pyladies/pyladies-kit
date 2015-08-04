@@ -43,13 +43,13 @@ Meeting ideas
 Finding Sponsors/Raising Funds
 ------------------------------
 
-If your chapter is small, you don’t necessarily need sponsors. Hosting chapter meetups at coffee shops, restaurants, or people’s houses is fine.
+If your group is small, you don’t necessarily need sponsors. Hosting meetups at coffee shops, restaurants, or people’s houses is fine.
 
-However, you may want to organize trips, conferences, and other types of more costly events. If so, you will need to raise local chapter funds and ask local Python shops to consider sponsoring an event.
+However, you may want to organize trips, conferences, and other types of more costly events. If so, you will need to raise local group funds and ask local Python shops to consider sponsoring an event.
 
 Venue Sponsors
 ~~~~~~~~~~~~~~
-Research local companies and approach them. Often, a company that already hosts other meetups will be willing to host your PyLadies chapter. Ask them if they’ll provide pizza/drinks; if not, charge attendees a fee that covers food (and more, if you want to use the funds for future events).
+Research local companies and approach them. Often, a company that already hosts other meetups will be willing to host your PyLadies group. Ask them if they’ll provide pizza/drinks; if not, charge attendees a fee that covers food (and more, if you want to use the funds for future events).
 
 Fiscal Sponsorship from the PSF
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -76,12 +76,12 @@ Corporate sponsorship
 
 Many companies are looking for ways to give back to the developer community. You’ll want to put together a corporate sponsor info packet.
 
-See our sample info packet at upload sponsorship doc to git repo. Borrow ideas from it, and customize it to fit your chapter.
+See our sample info packet at upload sponsorship doc to git repo. Borrow ideas from it, and customize it to fit your group.
 
 .. _Barbara Sharette: https://twitter.com/bshaurette
 
 
 Dealing with volunteer/organizer burnout
 ----------------------------------------
-Organizing a PyLadies chapter is hard work, and no less for the people who volunteer to help out. :ref:`burnout` is a page to help recognize and deal with signs of burnout.
+Organizing a PyLadies group is hard work, and no less for the people who volunteer to help out. :ref:`burnout` is a page to help recognize and deal with signs of burnout.
 

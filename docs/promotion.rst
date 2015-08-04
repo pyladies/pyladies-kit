@@ -4,7 +4,7 @@ Promotion
 ---------
 
 
-One benefit of creating a PyLadies chapter is having access to a
+One benefit of creating a PyLadies local group is having access to a
 worldwide support network of PyLadies who can help you spread word about
 your events.
 
@@ -59,11 +59,11 @@ Anything of interest to women in the Python community can be posted in
 the various PyLadies channels, provided that it meets these guidelines:
 
 #. **Send us the actual text that you want posted.**
-#. For local PyLadies chapter events:
+#. For local PyLadies local group events:
 
    * Send text for as many events as possible to the channels listed above.
      The more we can promote your events, the better.
-#. For non-chapter events and general postings:
+#. For non-local-group events and general postings:
 
    * Postings should be relevant to women.  Mention the women organizing
      and/or attending the event.  Have their names link to their websites or

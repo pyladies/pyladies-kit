@@ -3,7 +3,7 @@
 Policies
 --------
 
-We try not to have too many rules and regulations (everything abovehas been nothing more than advice we offer to make things easier for you, given that we learned much of it the hard way). Generally, chapter organizers are free to do whatever they want, as long as it’s in the best interest of their local chapter and/or PyLadies in general.
+We try not to have too many rules and regulations (everything abovehas been nothing more than advice we offer to make things easier for you, given that we learned much of it the hard way). Generally, local group organizers are free to do whatever they want, as long as it’s in the best interest of their local group and/or PyLadies in general.
 
 The following policies have been written up so that you may simply copy and paste them into email responses, to help you deal with awkward or tricky situations.
 
@@ -36,6 +36,6 @@ This is a strict formal policy, chosen to ensure that the PyLadies organization 
 Policy on Controversial Issues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As a PyLadies local chapter organizer, you may be asked for PyLadies’ position on controversial issues. Often, these are diversity-related issues.
+As a PyLadies local group organizer, you may be asked for PyLadies’ position on controversial issues. Often, these are diversity-related issues.
 
 PyLadies’ policy is to have no official position on controversial issues. By choosing this policy, we allow ourselves to be a group full of diverse ideas and differing viewpoints.

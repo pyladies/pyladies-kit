@@ -19,7 +19,7 @@ providing a platform to garner sponsorships and thank sponsors publicly.
 **Grant Size:** $72 total, which is the cost of 6 months to organize a
 group on Meetup.com.
 
-**Grant Beneficiaries:** Pyladies Madison is one of the newest chapters
+**Grant Beneficiaries:** Pyladies Madison is one of the newest groups
 of Pyladies. The Meetup.com account is a critical piece of getting the
 group off of the ground. The site is already used widely by other Tech
 Meetup groups in the Madison area and is one of the first places people
