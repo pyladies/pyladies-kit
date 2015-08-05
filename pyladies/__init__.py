@@ -3,4 +3,4 @@
 
 __author__ = 'Lynn Root'
 __email__ = 'lynn@pyladies.com'
-__version__ = '2.0.0'
+__version__ = '2.0.4'

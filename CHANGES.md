@@ -1,6 +1,10 @@
 
 CHANGES
 
+#### v2.0.4
+
+* Removed the use of ``chapter`` (implies certain legalities for certain types non-profits, which we don't fall under)
+
 #### v2.0.2
 
 * Fixed entry point, thanks to `Kyle Kelley <https://github.com/rgbkrk>`_
