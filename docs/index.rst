@@ -29,6 +29,15 @@ Deeper Dive
    contact
 
 
+Organizer Resources
+-------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   organizer/index
+
+
 How do I...?
 ------------
 

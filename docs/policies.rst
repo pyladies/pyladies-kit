@@ -3,28 +3,26 @@
 Policies
 --------
 
-We try not to have too many rules and regulations (everything abovehas been nothing more than advice we offer to make things easier for you, given that we learned much of it the hard way). Generally, local group organizers are free to do whatever they want, as long as it’s in the best interest of their local group and/or PyLadies in general.
+We try not to have too many rules and regulations (everything else in this kit has been nothing more than advice we offer to make things easier for you, given that we learned much of it the hard way). Generally, local group organizers are free to do whatever they want, as long as it’s in the best interest of their local group and/or PyLadies in general.
 
 The following policies have been written up so that you may simply copy and paste them into email responses, to help you deal with awkward or tricky situations.
+
+Trademark
+~~~~~~~~~
+
+PyLadies and the PyLadies logo are trademarks of the Python Software Foundation. For usage guidelines, please read :doc:`logo`.
 
 Code of Conduct
 ~~~~~~~~~~~~~~~
 
-Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.
+All PyLadies events (Meetups, conference lunches, etc), online spaces (IRC, Facebook, etc) are beholden to the PyLadies :ref:`coc`.
 
-Harassment includes offensive verbal/electronic comments related to personal characteristics or choices, sexual images or comments in public or online spaces, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of talks, IRC chats, electronic meetings, physical meetings or other events, inappropriate physical contact, or unwelcome sexual attention. Participants asked to stop any harassing or bullying behavior are expected to comply immediately.
+Every PyLadies location is **required** to make :ref:`coc` public in some way.  For instance, PyLadies SF has a dedicated `page`_ on their Meetup space.  The `#pyladies` IRC channel on Freenode has a link to the `main website's`_ Code of Conduct in the topic of the channel.
 
-If a participant engages in harassing behavior, representatives of the community may take reasonable action they deem appropriate, including warning the offender, expulsion from any PyLadies event, or expulsion from mailing lists, IRC chats, discussion boards and other electronic communications channels to resolve the issue. This may include expulsion from PyLadies Meetup group membership.
+Please read :doc:`organizer/responding` for how to appropriately deal with CoC violations.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any member of the PyLadies community, IRC chat admins, website admins, or organizers/representatives of any physical events put on under the auspices of PyLadies.
-
-This Code of Conduct has been adapted from the `Plone Foundation`_ and is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported `license`_.
-
-.. _Plone Foundation: http://plone.org/foundation/materials/foundation-resolutions/code-of-conduct
-.. _license: http://creativecommons.org/licenses/by-sa/3.0/
-
-Official PyLadies Guest Policy
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guest Policy
+~~~~~~~~~~~~
 
 (If anyone asks to stay with you in the future other than a trusted friend, say something like "I wish we could accommodate you, but
 PyLadies has a strict policy of not allowing members to host out-of-town guests" and then paste this, minus the parenthetical note.)
@@ -33,9 +31,13 @@ In the interest of safety and security of our members, PyLadies organizers, volu
 
 This is a strict formal policy, chosen to ensure that the PyLadies organization continues to be taken seriously and treated with complete respect by the professional software and tech communities.
 
-Policy on Controversial Issues
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Controversial Issues
+~~~~~~~~~~~~~~~~~~~~
 
 As a PyLadies local group organizer, you may be asked for PyLadies’ position on controversial issues. Often, these are diversity-related issues.
 
 PyLadies’ policy is to have no official position on controversial issues. By choosing this policy, we allow ourselves to be a group full of diverse ideas and differing viewpoints.
+
+
+.. _page: http://www.meetup.com/PyLadiesSF/pages/Code_Of_Conduct/
+.. _main website's: http://www.pyladies.com/CodeOfConduct/
