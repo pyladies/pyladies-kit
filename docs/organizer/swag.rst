@@ -1,8 +1,7 @@
-.. _swag:
-
 Swag
 ====
 
+.. _swag:
 Swag: T-Shirts, Stickers, and Other Merchandise
 -----------------------------------------------
 

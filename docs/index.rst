@@ -11,26 +11,24 @@ Quickstart
 ----------
 
 .. toctree::
+   :maxdepth: 1
 
-   getting-started
+   prospective/getting-started
    overview
-   about
+   changelog
 
 
-Deeper Dive
------------
+Prospective Organizers
+----------------------
 
 .. toctree::
+   :maxdepth: 1
 
-   history
-   background
-   policies
-   faqs
-   contact
+   prospective/index
 
 
-Organizer Resources
--------------------
+Current Organizers
+------------------
 
 .. toctree::
    :maxdepth: 1
@@ -38,24 +36,33 @@ Organizer Resources
    organizer/index
 
 
-How do I...?
-------------
+Global Organization
+-------------------
 
 .. toctree::
+   :maxdepth: 1
 
-   advice
-   events
-   promotion
-   website
-   newsletter
-   relationships
+   about
+   global/index
+   global/contact
+   global/faqs
+   global/policies
 
 
-Extras
-------
+PyLadies Members
+----------------
 
 .. toctree::
+   :maxdepth: 1
 
-   swag
-   tools
-   resources
+   member/index
+
+
+Misc
+----
+
+.. toctree::
+    :maxdepth: 1
+
+    misc/logo
+    misc/trademark

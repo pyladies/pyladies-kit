@@ -1,5 +1,3 @@
-.. _overview:
-
 Overview
 ========
 
@@ -11,23 +9,29 @@ We are an international mentorship group with a focus on helping more women beco
 PyLadies also aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
 
+How to use this kit
+-------------------
 
-Types of Local Groups
--------------------------
+Copy our model (fork & contribute). Or fork and make it completely different. We don’t mind if you get creative!
 
-A local group can be:
 
-#. a geographic group: for a city, region, state, or country
-#. a student group: for a university, college, or school
-#. an interest group: for any topic (e.g. PyGame, SciPy, Django)
 
-The larger the local group, the harder it is to meet in person. Large local group's events will be mostly virtual meetups that occur online, whereas small local group's events tend to be in-person meetups.
+pip install pyladies
+~~~~~~~~~~~~~~~~~~~~
 
-A local group can consist of sub-local-groups, making both the in-person and virtual meetups possible.
+Installation
+^^^^^^^^^^^^
 
-Group Size
-------------
+pyladies can be easily installed using::
 
-It’s fine if your local group is small. Having just 2-3 women who meet regularly to exchange Python tips and tricks counts as a local group. What matters most is *quality*, not quantity.
+   $ pip install pyladies
 
-Larger local groups have more flexibility to organize different types of events, but it’s harder to get everyone together for dinner.
+
+Usage
+^^^^^
+
+You can view the PyLadies docs by running::
+
+    $ pyladies handbook
+
+It's pretty limited functionality.  But stay tuned for more

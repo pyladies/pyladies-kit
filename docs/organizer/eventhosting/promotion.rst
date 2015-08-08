@@ -1,7 +1,7 @@
 .. _promotion:
 
 Promotion
----------
+=========
 
 
 One benefit of creating a PyLadies local group is having access to a

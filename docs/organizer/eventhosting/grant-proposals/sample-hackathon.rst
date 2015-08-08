@@ -1,7 +1,7 @@
 Grant Proposal: LA PyLadies Hackathon
-=========================================
+=====================================
 
-Contact: 
+Contact:
 
 Audrey Roy
 
@@ -38,9 +38,9 @@ Request for funds
 -----------------
 
 
-1) We would like to request funding to cover the costs of 6 6-foot folding tables and 24 folding chairs to use at all our future events. This is our biggest pain point. We only have space to seat 10 people at tables at the upcoming hack session on June 18. At the previous Intro to Python workshop, we were scrambling for furniture and embarrassingly had to ask attendees to bring tables/chairs. 
+1) We would like to request funding to cover the costs of 6 6-foot folding tables and 24 folding chairs to use at all our future events. This is our biggest pain point. We only have space to seat 10 people at tables at the upcoming hack session on June 18. At the previous Intro to Python workshop, we were scrambling for furniture and embarrassingly had to ask attendees to bring tables/chairs.
 
-    - Based on prices from walmart.com, tables are roughly $40 each: http://www.walmart.com/ip/Cosco-6- Foot-Long-Center-Fold-Table/13269097 
+    - Based on prices from walmart.com, tables are roughly $40 each: http://www.walmart.com/ip/Cosco-6- Foot-Long-Center-Fold-Table/13269097
 
     - Chairs are roughly $80 for a 4-pack:￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ http://www.walmart.com/ip/Hercules-Hinged-Fabric-Padded-Folding-Chair-4-Pack-Navy-Blue/13241431 Total requested for tables/chairs: $40*6+80*6 = $720
 
@@ -62,6 +62,6 @@ We are starting to see real impact on the LA community as a result of our work. 
 
 (Note: since then, I’ve realized that the number of women who attend the regular local user group doesn’t matter. What matters is the number and % of women who attend the local WOMEN’s user group.
 
-The fact that it’s a user group with regular members is all that counts. There’s no need to force the women to attend a mostly-male user group if that’s the situation in your city; there is enough merit to having a women’s Python user group in itself. 
+The fact that it’s a user group with regular members is all that counts. There’s no need to force the women to attend a mostly-male user group if that’s the situation in your city; there is enough merit to having a women’s Python user group in itself.
 
 Point this out and make it clear that regular attendance at your group is what counts in the end.)

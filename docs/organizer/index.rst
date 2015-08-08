@@ -1,18 +1,57 @@
-Organizer Resources
+Organizer Reference
 ===================
 
 
-Administrative
---------------
-
-
-Location Setup
---------------
+Quick Links
+-----------
 
 .. toctree::
     :maxdepth: 1
 
-    website
+    faqs
+
+New Organizer
+-------------
+
+.. toctree::
+    :maxdepth: 1
+
+    neworganizer/index
+    neworganizer/website
+
+
+
+Event Hosting
+-------------
+
+.. toctree::
+    :maxdepth: 1
+
+    eventhosting/ideas
+    eventhosting/sponsors
+    eventhosting/grants
+    eventhosting/promotion
+    eventhosting/logos
+    eventhosting/resources/index
+
+Helpful Stuff
+-------------
+
+.. toctree::
+    :maxdepth: 1
+
+    logos
+    swag
+
+Global PyLadies Organization
+----------------------------
+
+.. toctree::
+    :maxdepth: 1
+
+    global/index
+    global/pycon
+    global/policies
 
 
 Difficult Stuff
@@ -21,5 +60,6 @@ Difficult Stuff
 .. toctree::
     :maxdepth: 1
 
-    coc
-    responding
+    difficult/coc
+    difficult/responding
+    difficult/burnout
