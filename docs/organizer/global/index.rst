@@ -14,6 +14,7 @@ Mailing List
 We have a `global mailing list`_ in which anyone can join. Be sure to fill out the one request:
 
 | To be approved, please give a 1-5 sentence bio about yourself, how you heard about PyLadies, and/or how you use Python.
+|
 
 The mailing list is subject to the PyLadies :doc:`../difficult/coc`.
 
@@ -32,11 +33,6 @@ Editing
 +++++++
 
 If you'd like to volunteer to edit the next issue, all you have to do is shoot an email to the organizers mailing list! Warning: it's a lot of work!  We use Mailchimp.
-
-
-Data Collection
----------------
-
 
 
 .. _global mailing list: https://groups.google.com/forum/#!forum/pyladies

@@ -1,4 +1,5 @@
 .. _burnout:
+
 Resources for dealing with volunteer burnout
 ============================================
 

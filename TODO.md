@@ -13,3 +13,7 @@ No particular order, and not inclusive:
 * PyLadies' cultivated resources
 
 Submit ideas by filing issues and/or pull requests!
+
+
+
+* download fonts - and anything else that needs network access

@@ -1,4 +1,4 @@
-.. _events:
+:orphan:
 
 Events
 ======

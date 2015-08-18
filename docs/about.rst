@@ -1,4 +1,4 @@
-.. _about:
+:orphan:
 
 About
 =====

@@ -1,5 +1,16 @@
-Code of Conduct
-===============
+PyLadies Code of Conduct
+========================
+
+All PyLadies events (Meetups, conference lunches, etc), online spaces (IRC, Facebook, etc) are beholden to the PyLadies :ref:`coc`.
+
+Every PyLadies location is **required** to make :ref:`coc` public in some way.  For instance, PyLadies SF has a dedicated `page`_ on their Meetup space.  The ``#pyladies`` IRC channel on Freenode has a link to the `main website's`_ Code of Conduct in the topic of the channel.
+
+If you can not find the following Code of Coduct posted somewhere (e.g. wherever they post events), please reach out to your locations' organizers.
+
+.. _coc:
+
+Code of Conduct Policy
+----------------------
 
 Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.
 
@@ -13,3 +24,5 @@ This Code of Conduct has been adapted from the `Plone Foundation`_ and is licens
 
 .. _Plone Foundation: http://plone.org/foundation/materials/foundation-resolutions/code-of-conduct
 .. _license: http://creativecommons.org/licenses/by-sa/3.0/
+.. _page: http://www.meetup.com/PyLadiesSF/pages/Code_Of_Conduct/
+.. _main website's: http://www.pyladies.com/CodeOfConduct

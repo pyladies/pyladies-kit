@@ -1,3 +1,5 @@
+.. _logo-policy:
+
 PyLadies Logo Usage
 ===================
 

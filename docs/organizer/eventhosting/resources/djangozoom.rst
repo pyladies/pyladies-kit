@@ -1,3 +1,5 @@
+:orphan:
+
 DjangoZoom Beginner Walkthrough
 ===============================
 

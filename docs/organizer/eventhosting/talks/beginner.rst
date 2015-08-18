@@ -1,4 +1,6 @@
-Beginner Talk 
+:orphan:
+
+Beginner Talk
 =============
 
 .. note:: This document was originally created by Michelle Rowley
@@ -9,11 +11,11 @@ Thanks for being willing to do a beginner talk! Here are some guidelines that
 you may find helpful as you prepare your talk. They’re not rules by any means,
 but intended to guide the framing of your message and presentation.
 
-Goals of Beginner Talks 
+Goals of Beginner Talks
 -----------------------
 
-* Create a place for beginners in the group. 
-* Make beginners feel comfortable being at the presentation meeting.  
+* Create a place for beginners in the group.
+* Make beginners feel comfortable being at the presentation meeting.
 * Share a little bit of new knowledge with beginners.
 
 Giving a beginner talk at PDX Python is very different from giving an
@@ -30,7 +32,7 @@ which the unique goal is to pass on chunks of knowledge, beginner talks pass on
 some information as a secondary goal. In these talks the sharing of information
 is the tool by which we make beginners feel comfortable.
 
-Content + Delivery 
+Content + Delivery
 ------------------
 
 Since the main goal is to welcome and encourage beginners, the tone of the talk
@@ -63,7 +65,7 @@ to check for understanding in a friendly way. If they don't understand, we
 haven't taught them well enough. Feel free to try explaining it again. There are
 no time constraints on beginner talks.
 
-Thank You, Awesome Ambassador 
+Thank You, Awesome Ambassador
 -----------------------------
 
 Beginners are precious resources with whom we've got to be careful and gentle.

@@ -34,7 +34,7 @@ All trademarks are subject to "nominative use rules" that allow use of the trade
 
 As such, stating accurately that local meetup group is put together by PyLadies organizers, that resource materials were put together by PyLadies member or organizer, or that software was written by PyLadies, is always allowed. In those cases, you may use the word "PyLadies" or the unaltered logos to indicate this, without our prior approval. This is true both for non-commercial and commercial uses.
 
-This clause overrides other clauses of this policy. However, if you have any doubts about your intended use of the trademarks, please contact the `PyLadies leadership <ask>`_.
+This clause overrides other clauses of this policy. However, if you have any doubts about your intended use of the trademarks, please contact the `PyLadies leadership`_.
 
 Uses that Always Require Approval
 ---------------------------------
@@ -69,13 +69,14 @@ We have specific rules for the following uses:
 * Use of one of the PyLadies-provided logo variants in unaltered form.
 * Use of a logo derived from the PyLadies logos. For example, use of a localized PyLadies geek girl.
 * Combined with different text, or with no text, or in combination with other graphic elements.
+
 The following rules apply to the use of trademarks in each of these three classes.
 
 The word "PyLadies"
 ~~~~~~~~~~~~~~~~~~~
-* Use of the word "PyLadies" in the names of user groups like NYC PyLadies, PyLadies of San Francisco, PyLadies Remote, etc. -- Allowed when referring to sponsoring, attending, or starting up a local group. For commercial products, contact `PyLadies leadership <ask>`_ for permission.
-* Use of the word "PyLadies" in company names -- Allowed only by prior written permission from `PyLadies leadership <ask>`_.
-* Use of the word "PyLadies" when distributing software as part of a freely distributed learning resource, like "PyLadies Kit" -- Allowed when released under PyLadies accounts (e.g. `GitHub`_ or PyPI). Please `ask <ask>`_ for assistance with distribution. For commercial distributions, contact `PyLadies leadership <ask>`_ for permission if your use is not covered by the nominative use rules described in the section "Uses that Never Require Approval" above.
+* Use of the word "PyLadies" in the names of user groups like NYC PyLadies, PyLadies of San Francisco, PyLadies Remote, etc. -- Allowed when referring to sponsoring, attending, or starting up a local group. For commercial products, contact `PyLadies leadership`_ for permission.
+* Use of the word "PyLadies" in company names -- Allowed only by prior written permission from `PyLadies leadership`_.
+* Use of the word "PyLadies" when distributing software as part of a freely distributed learning resource, like "PyLadies Kit" -- Allowed when released under PyLadies accounts (e.g. `GitHub`_ or PyPI). Please `ask`_ for assistance with distribution. For commercial distributions, contact `PyLadies leadership`_ for permission if your use is not covered by the nominative use rules described in the section "Uses that Never Require Approval" above.
 * Use of the word "PyLadies" in the name of books, tutorial resources or publications like "PyLadies Tutorial Cookbook" and "PyLadies Beginner Resources" -- Allowed if for PyLadies.
 * Use of the word "PyLadies" on websites, brochures, documentation, and product packaging -- Allowed if referring to PyLadies. Please follow the rules above about the use of the circle-R symbol.
 * Use of the word "PyLadies" in advertisements -- Allowed in most cases by the nominative use rules described in the section "Uses that Never Require Approval" above. Other uses in ads only with prior permission.
@@ -85,17 +86,17 @@ The word "PyLadies"
 
 Unaltered Logos
 ~~~~~~~~~~~~~~~
-* Use of unaltered PSF- and PyLadies-provided logos on T-shirts, mugs, etc. -- Again, non-commercial uses to promote the PyLadies community are allowed. Commercial uses (which includes any use where you sell these items for money) require permission from the `PyLadies leadership <ask>`_. Please reproduce our logos with the right colors and fonts; if you need help, let us know.
+* Use of unaltered PSF- and PyLadies-provided logos on T-shirts, mugs, etc. -- Again, non-commercial uses to promote the PyLadies community are allowed. Commercial uses (which includes any use where you sell these items for money) require permission from the `PyLadies leadership`_. Please reproduce our logos with the right colors and fonts; if you need help, let us know.
 * Use of unaltered PSF-provided logos on websites, brochures, and product packaging. The "PyLadies geek" and the "PyLadies wordmark" graphics alone is an unaltered version, whether or not accompanied by the words in PyLadies-provided logos. Non-commercial uses to promote the PyLadies community are allowed, as are all nominative uses as described in the section "Uses that Never Require Approval". Any other commercial uses require prior written permission from PSF.
 
 
 Derived Logos
 ~~~~~~~~~~~~~
-* Derived logos must always be sufficiently different from the PyLadies logos to allow the community to tell the difference. For example, if you want to create a derived logo for a local user group, you might be able to insert an unaltered PyLadies logo graphic into the local group's name in a way that does not cause confusion. But confusingly similar derived logos are not allowed. This includes entwining PyLadies logos with other logos, or connecting them together in a confusing manner. Logos that simply change the colors or fonts do not require permission from `PyLadies leadership <ask>`_.  However, permission is required for any alteration to the shape of the "PyLadies wordmark" or the "PyLadies geek".
+* Derived logos must always be sufficiently different from the PyLadies logos to allow the community to tell the difference. For example, if you want to create a derived logo for a local user group, you might be able to insert an unaltered PyLadies logo graphic into the local group's name in a way that does not cause confusion. But confusingly similar derived logos are not allowed. This includes entwining PyLadies logos with other logos, or connecting them together in a confusing manner. Logos that simply change the colors or fonts do not require permission from `PyLadies leadership`_.  However, permission is required for any alteration to the shape of the "PyLadies wordmark" or the "PyLadies geek".
 * Use of freely distributable derived logos as icons for files and executables -- Allowed if used to refer to the PyLadies community. Commercial users should obtain permission before using derived logos as icons for proprietary file formats.
 * Use of derived logos for user groups and conferences -- Allowed if used to refer to the PyLadies community. Commercial user groups and for-profit conferences require permission from the PSF.
-* Use of derived logos for freely distributed software or tools -- Allowed when released under official PyLadies accounts (e.g. `GitHub`_ or PyPI). Please `ask <ask>`_ for assistance with distribution. Use of derived logos for commercial modules and tools requires permission from the `PyLadies leadership <ask>`_.
-* We recommend contacting the `PyLadies leadership <ask>`_ for permission for all derived logos to avoid placing a confusing logo into wide-spread use. Contacting us is not a requirement for the specific non-commercial uses listed above, or when using freely distributable derived logos that have already been approved by the PyLadies leadership. However, obtaining permission from the PyLadies Leadership is required in all other uses of a derived logo.
+* Use of derived logos for freely distributed software or tools -- Allowed when released under official PyLadies accounts (e.g. `GitHub`_ or PyPI). Please `ask`_ for assistance with distribution. Use of derived logos for commercial modules and tools requires permission from the `PyLadies leadership`_.
+* We recommend contacting the `PyLadies leadership`_ for permission for all derived logos to avoid placing a confusing logo into wide-spread use. Contacting us is not a requirement for the specific non-commercial uses listed above, or when using freely distributable derived logos that have already been approved by the PyLadies leadership. However, obtaining permission from the PyLadies Leadership is required in all other uses of a derived logo.
 
 Notes
 -----
@@ -109,7 +110,7 @@ Commercial trademark uses that predate this policy (prior to August 2015) do not
 
 Helping Out
 -----------
-As a member of the PyLadies community, please keep an eye out for questionable uses of the PyLadies logo and "PyLadies" word mark. You can report potential misuse to the `PyLadies Leadership <ask>`_. We will evaluate each case and take appropriate action.
+As a member of the PyLadies community, please keep an eye out for questionable uses of the PyLadies logo and "PyLadies" word mark. You can report potential misuse to the `PyLadies Leadership`_. We will evaluate each case and take appropriate action.
 
 Please do not approach users of the trademarks with a complaint. That should be left to the PyLadies leadership and its representatives.
 
@@ -126,3 +127,4 @@ This policy has been adapted from the `Python Software Foundation`'s `Trademark 
 .. _GitHub: https://github.com/pyladies
 .. _Trademark Use Policy: https://www.python.org/psf/trademarks/
 .. _cc0: https://creativecommons.org/publicdomain/zero/1.0/
+.. _PyLadies leadership: mailto:info@pyladies.com

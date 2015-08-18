@@ -7,7 +7,7 @@ Frequently Asked Questions
 --------------------------
 
 Can men attend local PyLadies group events?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It’s up to you. Generally, it’s good to hold women-only events as well as events for both genders (either women and +1 guests, or anyone who wants to attend). Just be aware that the dynamic of the room tends to change when the male:female ratio becomes lopsided.
 
@@ -48,10 +48,10 @@ No! PyLadies and local PyLadies groups are about making the Python community exp
 Women who wouldn’t otherwise attend a Python user group meeting often attend local PyLadies group events, as a gateway to getting involved with Python programming as a beginner, or getting more involved in the Python community as an intermediate/advanced developer.
 
 How do I set up reimbursement for Meetup fees?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The PSF will `most likely reimburse <http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html>`_ your Meetup.com organizer fees for a local Pyladies meetup. You
-can :doc:`submit <getting-started>` a grant proposal, and :doc:`here </grant-proposals/sample-meetup-proposal>` is a sample grant proposal to get you started.
+can submit a grant proposal, and :doc:`here <grants/sample-meetup-proposal>` is a sample grant proposal to get you started.
 
 What if my question isn’t answered here?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

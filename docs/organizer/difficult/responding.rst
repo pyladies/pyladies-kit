@@ -28,7 +28,7 @@ Record Keeping
 
 You have the ability to use Google Drive with your ``pyladies.com`` account (please don't polute your personal Google drive!).  Just log into `drive.google.com`_ with your PyLadies email login information.  With that,
 
-* Create a form (e.g. with Google Forms) that allows someone to report the incident online.  See :ref:`receiving` for what details to collect.  An example form can be found `here <example-form>`_.
+* Create a form (e.g. with Google Forms) that allows someone to report the incident online.  See :ref:`receiving` for what details to collect.  An example form can be found `here`_.
 * Publish the form within your location's page (e.g. local Meetup page, website, Facebook) as well as emailed out when it initially is published.
 * Publish contact information (e.g. your location's email) in case they wish to not fill out the form or want talk to someone directly.
 * Set up `email notifications`_ for any form response so you don't miss anything
@@ -43,11 +43,11 @@ The purpose of maintaining a "paper trail" is:
 Informing PyLadies Global
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If an incident happens in your local PyLadies community, you must report it to the global organization via `this form <inform>`_.  The purpose is very similar to :ref:`record` - for the global organization to be aware of what's going on in case of any legal or PR action is needed/taken, as well as look for a pattern of behavior (e.g. a repeat harasser moves locations, if a community is particularly unwelcoming and may need more help).
+If an incident happens in your local PyLadies community, you must report it to the global organization via `our CoC reporting form`_.  The purpose is very similar to :ref:`record` - for the global organization to be aware of what's going on in case of any legal or PR action is needed/taken, as well as look for a pattern of behavior (e.g. a repeat harasser moves locations, if a community is particularly unwelcoming and may need more help).
 
 You are of course welcome and invited to request help from the global PyLadies organization.  We are here for resources, advice, or just to talk to.
 
-The global organization is also responsible for complaints of local organizers.  If you received or witnessed unwanted behavior in any way that breaks our :ref:`coc` by another organizer, please do not hesitate to contact us.  You may report any violations via `this form <global report>`_, or contact us at `coc@pyladies.com`_.
+The global organization is also responsible for complaints of local organizers.  If you received or witnessed unwanted behavior in any way that breaks our :ref:`coc` by another organizer, please do not hesitate to contact us.  You may report any violations via `our global report form`_, or contact us at `coc@pyladies.com`_.
 
 The following people maintain any :ref:`coc` reports:
 
@@ -260,9 +260,9 @@ For consistency, it is wise to deal with situations that came up at this year's 
 .. _Geek Feminism: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
 .. _drive.google.com: https://drive.google.com
 .. _email notifications: https://support.google.com/docs/answer/91588?hl=en
-.. _example-form: https://foobar
-.. _inform: https://foobarbaz
-.. _global report: https://barfoo
+.. _here: https://foobar
+.. _our CoC reporting form: https://foobarbaz
+.. _our global report form: https://barfoo
 .. _coc@pyladies.com: mailto:coc@pyladies.com
 .. _la@pyladies.com: mailto:la@pyladies.com
 .. _sf@pyladies.com: mailto:sf@pyladies.com

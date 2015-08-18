@@ -1,25 +1,15 @@
-Organizer Reference
-===================
+Current Organizers
+==================
 
 
-Quick Links
+Handy Links
 -----------
 
 .. toctree::
     :maxdepth: 1
 
     faqs
-
-New Organizer
--------------
-
-.. toctree::
-    :maxdepth: 1
-
-    neworganizer/index
-    neworganizer/website
-
-
+    neworganizer
 
 Event Hosting
 -------------
@@ -31,20 +21,21 @@ Event Hosting
     eventhosting/sponsors
     eventhosting/grants
     eventhosting/promotion
-    eventhosting/logos
     eventhosting/resources/index
+    eventhosting/advice
 
-Helpful Stuff
--------------
+Admin Stuff
+-----------
 
 .. toctree::
     :maxdepth: 1
 
-    logos
-    swag
+    website/global
+    website/local
+    admin/handover
 
-Global PyLadies Organization
-----------------------------
+Global Organization
+-------------------
 
 .. toctree::
     :maxdepth: 1
@@ -52,6 +43,15 @@ Global PyLadies Organization
     global/index
     global/pycon
     global/policies
+
+Miscellaneous Helpful Stuff
+---------------------------
+
+.. toctree::
+    :maxdepth: 1
+
+    logos
+    swag
 
 
 Difficult Stuff
