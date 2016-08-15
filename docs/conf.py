@@ -3,7 +3,7 @@
 
 extensions = []
 project = u'PyLadies Handbook'
-copyright = u'2014-2015, PyLadies'
+copyright = u'2014-2016, PyLadies'
 
 version = '2.1'
 release = '2.1.0'
