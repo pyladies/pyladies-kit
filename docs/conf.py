@@ -5,6 +5,12 @@ extensions = []
 project = u'PyLadies Handbook'
 copyright = u'2014-2016, PyLadies'
 
+
+try:
+    import sphinx_rtd_theme
+except ImportError:
+    sphinx_rtd_theme = None
+
 version = '2.1'
 release = '2.1.0'
 
@@ -15,9 +21,12 @@ source_suffix = '.rst'
 
 pygments_style = 'sphinx'
 
+if sphinx_rtd_theme:
+    html_theme = "sphinx_rtd_theme"
+    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+else:
+    html_theme = "default"
 
-html_theme = "pyladies"
-html_theme_path = ["_themes"]
 html_sidebars = {
     '**': [
         'nav.sidebar.html',
