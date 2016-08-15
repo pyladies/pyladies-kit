@@ -1,52 +1,62 @@
-PyLadies
-========
+PyLadies Kit
+============
 
-Release v\ |version| (:doc:`What's new? <changelog>`).
+Release v\ |version| (:doc:`What's new? <changelog>`)
 
 .. include:: intro.rst
    :start-after: :orphan:
 
 
-Quickstart
-----------
+Intro
+-----
 
 .. toctree::
+   :maxdepth: 2
 
-   getting-started
    overview
-   about
 
+Prospective Organizers
+----------------------
 
-Deeper Dive
------------
-
-.. toctree::
-
-   history
-   background
-   policies
-   faqs
-   contact
-
-
-How do I...?
-------------
+Everything you need to start your own PyLadies location!
 
 .. toctree::
+   :maxdepth: 1
 
-   advice
-   events
-   promotion
-   website
-   newsletter
-   relationships
+   prospective/index
 
 
-Extras
-------
+Current Organizers
+------------------
 
 .. toctree::
+   :maxdepth: 1
 
-   swag
-   tools
-   resources
+   organizer/index
+
+PyLadies Members
+----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   member/index
+
+
+Global Organization
+-------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   global/index
+
+
+Misc
+----
+
+.. toctree::
+    :maxdepth: 1
+
+    misc/index
+    changelog

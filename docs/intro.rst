@@ -2,8 +2,11 @@
 
 The ``pyladies`` kit gets you up and running with starting a PyLadies local group, including what's needed, advice, event planning help, and some tools that may be helpful.
 
-The ``pyladies`` package is licensed under the `Creative Commons Attribution 3.0 Unported License`_.
+The ``pyladies`` documentation is licensed under the `Creative Commons Attribution 3.0 Unported License`_.  The ``pyladies`` code is licensed under the `MIT License`_.
+
+The PyLadies wordmark and logo is trademarked, with the usage policy available here defined :doc:`misc/trademark`.
 
 .. _Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/
+.. _MIT License: http://choosealicense.com/licenses/mit/
 
-You are free to use all the graphics in this kit to print your own t-shirts, stickers, and other merchandise with one restriction: if you are selling these items, marking up the price is fine as long as profits goes toward anything women in Python/open-source/computing related. (We encourage you to use merchandise based on graphics in this kit to raise funds for starting or growing your PyLadies local group, or hosting PyLadies meetups at conferences!)
+

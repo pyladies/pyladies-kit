@@ -3,6 +3,25 @@
 What's new?
 -----------
 
+v2.0.5
+^^^^^^
+
+* Added:
+
+    * Trademark Usage Policy
+    * Logo Usage Guidelines
+    * Guidelines to responding to a Code of Conduct incident
+    * [TODO] Resources on how to make a local PyLadies website
+    * [TODO] Logos/assets
+
+* Updated:
+
+    * Reorganized doc location/flow
+
+v2.0.4
+^^^^^^
+
+* Removed the use of the word "chapter"
 
 v2.0 PyPI Release
 ^^^^^^^^^^^^^^^^^
