@@ -67,7 +67,7 @@ Here's all of what needs to be done to start a PyLadies group locally.  You may 
 
 **PART 1**
 
-Fill out the `initial PyLadies group interest form <interest form>`_ to get your namespace setup for your group domain and email.  If you haven't heard anything within a week, please `ping us`_!
+Fill out the `initial PyLadies group interest form`_ to get your namespace setup for your group domain and email.  If you haven't heard anything within a week, please `ping us`_!
 
 Once you have received a confirmation that the the initial PyLadies request form was approved and setup, continue on:
 
@@ -124,7 +124,7 @@ If you have any questions or concerns about the process, `drop us an email <ping
 
 .. _ping us: mailto:info@pyladies.com
 .. _grant process: https://www.python.org/psf/grants
-.. _interest form: https://docs.google.com/forms/d/18GjETzcU1KeqdrOMASeyCCNyl_wvWKpunUauLt6opS8/viewform
+.. _initial PyLadies group interest form: https://docs.google.com/forms/d/18GjETzcU1KeqdrOMASeyCCNyl_wvWKpunUauLt6opS8/viewform
 .. _their grant process: https://www.python.org/psf/grants
 .. _PyLadies resource form: https://docs.google.com/forms/d/1f1jCD_XOf-06ifZkuSvAdCG9_Me0FnDWNxLQZY-JktU/viewform
 .. _PyLadies Global Organizers list: https://groups.google.com/d/forum/pyladies-group-organizers
