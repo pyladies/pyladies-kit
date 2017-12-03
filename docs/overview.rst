@@ -17,7 +17,7 @@ Copy our model (fork & contribute). Or fork and make it completely different. We
 Purpose
 ~~~~~~~
 
-Their are a few purposes of this PyLadies kit:
+There are a few purposes of this PyLadies kit:
 
 1. To help those interested in :doc:`starting <prospective/index>` their own local PyLadies
 2. To be a guide for :doc:`current local organizers <organizer/index>`
