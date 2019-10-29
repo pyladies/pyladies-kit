@@ -91,11 +91,14 @@ Once you have received a confirmation that the the initial PyLadies request form
 
 .. _meetup:
 
-3. File for a reimbursement for Meetup fees to the Python Software Foundation by following `their grant process`_.  A sample grant request can be found :doc:`here <../organizer/grants/sample-meetup-proposal>`.
+3. If your Meetup groups' 6-month subscription is $89.94 USD (or equivalent) or more, please contact accounting@python.org to request being added to the PSF Meetup Pro network and include a link to your group's code of conduct.
+
+   Meetup subscription reimbursement requests should be submitted within 120 days from the start of a meetup subscription period or the reimbursement will not be approved. For example, if a meetup subscription period begins on June 25, 2018, the organizer may submit a grant request before June 25, 2018 or up to October 23, 2018.
 
 .. note::
 
-    The Python Software Foundation will reimburse Meetup.com fees for PyLadies Meetup groups.  However, if your location does not use Meetup.com but a different/similar site that charges, **still file a reimbursement!**
+    Reimbursements of meetup subscriptions made to PSF fiscal sponsorees are not charged against the fiscal sponsoree's fund balance.
+    If you would like more detail go to the `PSF FAQ page`_.
 
 4. Sign up for a Heroku account with your ``pyladies.com`` email address.  This will be used to setup your website, which is documented at :doc:`../organizer/website/local` once you're ready.
 
@@ -125,7 +128,7 @@ If you have any questions or concerns about the process, `drop us an email <ping
 .. _ping us: mailto:info@pyladies.com
 .. _grant process: https://www.python.org/psf/grants
 .. _initial PyLadies group interest form: https://docs.google.com/forms/d/18GjETzcU1KeqdrOMASeyCCNyl_wvWKpunUauLt6opS8/viewform
-.. _their grant process: https://www.python.org/psf/grants
+.. _PSF FAQ page: https://www.python.org/psf/grants/faq/
 .. _PyLadies resource form: https://docs.google.com/forms/d/1f1jCD_XOf-06ifZkuSvAdCG9_Me0FnDWNxLQZY-JktU/viewform
 .. _PyLadies Global Organizers list: https://groups.google.com/d/forum/pyladies-group-organizers
 .. _PyLadies Global Members list: https://groups.google.com/d/forum/pyladies
