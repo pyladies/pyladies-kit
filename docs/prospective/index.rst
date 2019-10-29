@@ -98,7 +98,7 @@ Once you have received a confirmation that the the initial PyLadies request form
 .. note::
 
     Reimbursements of meetup subscriptions made to PSF fiscal sponsorees are not charged against the fiscal sponsoree's fund balance.
-    If you would like more detail go to the `PSF FAQ page`_
+    If you would like more detail go to the `PSF FAQ page`_.
 
 4. Sign up for a Heroku account with your ``pyladies.com`` email address.  This will be used to setup your website, which is documented at :doc:`../organizer/website/local` once you're ready.
 
