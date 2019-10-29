@@ -77,8 +77,8 @@ Once you have received a confirmation that the the initial PyLadies request form
 
     1. Twitter
     2. Facebook
-    3. Google+
-    4. GitHub
+    3. GitHub
+    4. Slack
     5. IRC/Freenode
 
 
@@ -109,7 +109,7 @@ Once you have received a confirmation that the the initial PyLadies request form
     1. `PyLadies Global Organizers list`_ - all global organizational communication and coordination is done via this list.  You'll be introduced to the mailing list.
     2. `PyLadies Global Members list`_ - a global list for PyLadies (and PyGent allies) members. Feel free to introduce yourself and the new location.
 
-7. If you're familiar with IRC, come hang out in the ``#pyladies`` channel on Freenode.
+7. Join the `Pyladies Slack group`_. If you're familiar with IRC, come hang out in the ``#pyladies`` channel on Freenode.
 
 8. Plan your first event!  Check out :doc:`../organizer/neworganizer` for New Organizer information. Start promoting your new group via various local channels, including meetup.com, local PUGs, related groups, and universities, as well as the global PyLadies Members list!
 
@@ -123,7 +123,7 @@ FAQs
 Questions & Contact
 -------------------
 
-If you have any questions or concerns about the process, `drop us an email <ping us>`_ or ping ``roguelynn`` or ``estherbester`` in the ``#pyladies`` channel on Freenode!
+If you have any questions or concerns about the process, `drop us an email <ping us>`_ or ping ``roguelynn`` or ``estherbester`` on Slack or in the ``#pyladies`` channel on Freenode!
 
 .. _ping us: mailto:info@pyladies.com
 .. _grant process: https://www.python.org/psf/grants
@@ -132,3 +132,4 @@ If you have any questions or concerns about the process, `drop us an email <ping
 .. _PyLadies resource form: https://docs.google.com/forms/d/1f1jCD_XOf-06ifZkuSvAdCG9_Me0FnDWNxLQZY-JktU/viewform
 .. _PyLadies Global Organizers list: https://groups.google.com/d/forum/pyladies-group-organizers
 .. _PyLadies Global Members list: https://groups.google.com/d/forum/pyladies
+.. _Pyladies Slack group: https://slackin.pyladies.com/

@@ -52,12 +52,13 @@ The PSF will `most likely reimburse <psf-reimburse>`_ your Meetup.com organizer 
 What if my question isn’t answered here?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ask in IRC #pyladies on `freenode <irc>`_ if you wish. But feel free to organize your PyLadies group however you wish, and make it completely your own. We’re here to help you, not to limit you or control your plans.
+Ask on `Slack`_ or in IRC #pyladies on `freenode <irc>`_ if you wish. But feel free to organize your PyLadies group however you wish, and make it completely your own. We’re here to help you, not to limit you or control your plans.
 
 
 .. _PyLadies leadership: mailto:info@pyladies.com
 .. _spreadshirt site: https://pyladies.spreadshirt.com
 .. _PyLadies assets repo: https://github.com/pyladies/pyladies-kit
 .. _email: mailto:info@pyladies.com
+.. _slack: https://slackin.pyladies.com/
 .. _irc: http://irc.freenode.net
 .. _psf-reimburse: http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html
