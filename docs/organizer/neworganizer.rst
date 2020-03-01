@@ -32,6 +32,20 @@ We highly suggest you use a unique password for each account you use for your Py
 .. _share: https://helpdesk.lastpass.com/sharing/
 
 
+Meetup
+------
+
+Whether it's Meetup.com or another local event/community site, start the local
+group with the ``pyladies.com`` email address.
+
+If your Meetup groups' 6-month subscription is $89.94 USD (or equivalent) or
+more, please contact accounting@python.org to request being added to the PSF
+Meetup Pro network and include a link to your group's code of conduct.
+
+Meetup subscription reimbursement requests should be submitted within 120 days
+from the start of a meetup subscription period or the reimbursement will not be
+approved. For example, if a meetup subscription period begins on June 25, 2018,
+the organizer may submit a grant request before June 25, 2018 or up to October 23, 2018.
 
 Social Media
 ------------

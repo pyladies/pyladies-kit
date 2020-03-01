@@ -7,56 +7,17 @@ Release v\ |version| (:doc:`What's new? <changelog>`)
    :start-after: :orphan:
 
 
-Intro
------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    overview
-
-Prospective Organizers
-----------------------
-
-Everything you need to start your own PyLadies location!
-
-.. toctree::
-   :maxdepth: 1
-
    prospective/index
-
-
-Current Organizers
-------------------
-
-.. toctree::
-   :maxdepth: 1
-
    organizer/index
-
-PyLadies Members
-----------------
-
-.. toctree::
-   :maxdepth: 1
-
    member/index
-
-
-Global Organization
--------------------
-
-.. toctree::
-   :maxdepth: 1
-
    global/index
+   faqs
+   installation
+   misc/index
+   changelog
 
-
-Misc
-----
-
-.. toctree::
-    :maxdepth: 1
-
-    misc/index
-    changelog

@@ -1,5 +1,8 @@
-Prospective Organizers
-======================
+For Prospective Organizers
+==========================
+
+.. contents::
+
 
 So you’ve decided to start your own PyLadies group – **YAY!**
 
@@ -8,128 +11,80 @@ We’re excited to have people like you join our growing community and want to h
 To help you get started, we’ve created this open-source kit for starting your own PyLadies group in your city. PyLadies is part social club, part stepping stone toward the Python open-source world.
 
 
-Things to Think About
----------------------
+Guidelines for Starting Your Own Group
+--------------------------------------
 
-Types of Local Groups
-~~~~~~~~~~~~~~~~~~~~~
+When you start your own PyLadies group, you'll be helping to build and grow local
+Python community, through meetups, or sharing info through mailing lists, twitter, etc.
 
-A local group can be:
+A PyLadies group is not meant for a one-time event or workshop. There is an expectation
+for ongoing community activities through your group, at least once or twice a year.
+Some of our groups are aiming for monthly events.
 
-#. a geographic group: for a city, region, state, or country
-#. a student group: for a university, college, or school
-#. an interest group: for any topic (e.g. PyGame, SciPy, Django)
+Ideally the organizers in your group should be women or women majority. We also
+require at least two co-organizers in your group to help share the workload
+and prevent burnout from any single organizer.
 
-The larger the local group, the harder it is to meet in person. Large local group's events will be mostly virtual meetups that occur online, whereas small local group's events tend to be in-person meetups.
+When requesting a chapter, we ask that it be local and city-based. If an existing
+chapter already exists in your city, a second one may be allowed depending on
+circumstances.
 
-A local group can consist of sub-local-groups, making both the in-person and virtual meetups possible.
+Role and Responsibilities of the Organizer
+------------------------------------------
 
-Group Size
-~~~~~~~~~~
+Once your group has been approved, you and your group agree to use your group's
+``@pyladies.com`` email address to conduct your business. For example,
+for any email communications with your members, and for creating meetup
+and social media accounts.
 
-It’s fine if your local group is small. Having just 2-3 women who meet regularly to exchange Python tips and tricks counts as a local group. What matters most is *quality*, not quantity.
+You may be asked from time to time to share any news from Global PyLadies leadership
+team to your members.
 
-Larger local groups have more flexibility to organize different types of events, but it’s harder to get everyone together for dinner.
+You will help organize or support co-organization of at least one meetup per year.
 
+You're not necessarily expected to be the one creating content, or giving talk
+or workshop. It is expected for you to invite local speakers, and create opportunities
+for aspiring new speakers among your members.
 
-Event Frequency
-~~~~~~~~~~~~~~~
+You may be asked to provide a report of your group activities once a year to the
+Global PyLadies Leadership team.
 
-There are no formal requirements for how often a leader hold events.  However, we highly encourage that - at minimum, to try and hold one event a month.  This helps keep interest in PyLadies from flagging, and helps people maintain their progress in becoming better developers. You can hold more events with proper support and planning.
+You will be responsible to notify Global PyLadies leadership of changes in your
+organizing team. For example, if you have new organizers, or if an organizer stepped down.
 
-Suggestions for event types and event resources can be found under :doc:`../organizer/eventhosting/ideas` and :doc:`../organizer/eventhosting/resources/index`.
-
-Process Overview
+Process overview
 ----------------
 
-Everything is listed in :doc:`checklist`, but an overview of the process is:
+1. Prior to starting your own PyLadies group, please first join our `Pyladies Slack group`_,
+   and head to ``#prospective-organizers`` channel. We encourage you to seek
+   mentorship from experienced organizers, and for you to ask questions about
+   starting your own group.
 
-1. Think about who you'd like to have help you, if you'd like.
-2. Think about the name of the location.  For instance, do you want "PyLadies of Super Awesome City", or "Super Awesome City PyLadies", or "SACPyLadies"? We **highly** encourage to not choose a name that is the whole country or state, e.g. "PyLadies of California".  We do not want to discourage other women from starting a local PyLadies, say "PyLadies of Santa Barbara" when "PyLadies of California" is only focusing on the Bay Area.
-3. Fill out the initial interest form (linked in the checklist).
-4. If you haven't heard from anyone within a week, please `ping us`_!  Once you do, you will be given a PyLadies email address, which is also your Google Apps account.
-5. Sign up for ALL the things with your new PyLadies email address, like Meetup.com, Twitter, Facebook, or anything that's relevant to your location.
-6. If you have signed up for Meetup, you may request reimbursement of fees paid from the Python Software Foundation.  Check out their `grant process`_ for more information, as well as a :doc:`../organizer/grants/sample-meetup-proposal`.
-7. Think about how you want to setup your website (e.g. a static HTML/CSS/JS site, or a dynamic site with Django/Flask/etc).  More information in :doc:`../organizer/website/local`
-8. Fill out the PyLadies resource form with all the new accounts (linked in the checklist).
-9. Start hosting events!
+2. Once you're ready to start your own group, please fill in the "New Chapter Registration Form" (link tbd).
 
-DON'T GET AHEAD OF YOURSELF
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3. We review new chapter requests once per month. Your request will be reviewed
+   in the following month after you filed your request. For example, if you
+   filled in the form on March 2020, it will be reviewed on April 2020.
 
-Please do *not* purchase domains or setup email addresses; we do that for you!  We need to maintain accounts (both for trademark and administrative purposes).
+4. If we approve your request, we will create your group's ``@pyladies.com`` email
+   address and give you the credentials.
 
+5. Once you receive your ``@pyladies.com`` email address, you can then use this
+   to start activities for your group. You must use this email address to create
+   your Meetup account and other related social media account, like Twitter, Facebook,
+   etc.
 
-Process Checklist
------------------
+6. Your contact info (and your co-organizers') will be automatically added to our
+   `Organizer Directory <https://docs.google.com/spreadsheets/d/14--69LWAGhF_DA8iPGRAOoh7GMJ3qFmcMQwASWqPo54/edit?usp=sharing)>`_.
+   You can view this by logging in using your group's ``@pyladies.com`` email address.
 
-Here's all of what needs to be done to start a PyLadies group locally.  You may of course adapt this list to meet your group’s needs.
-
-**PART 1**
-
-Fill out the `initial PyLadies group interest form`_ to get your namespace setup for your group domain and email.  If you haven't heard anything within a week, please `ping us`_!
-
-Once you have received a confirmation that the the initial PyLadies request form was approved and setup, continue on:
-
-**PART 2**
-
-1. With the new ``@pyladies.com`` email address, sign up for the following social media/communications accounts (if it makes sense for your local group):
-
-    1. Twitter
-    2. Facebook
-    3. GitHub
-    4. Slack
-    5. IRC/Freenode
-
-
-2. Whether it's Meetup.com or another local event/community site, start the local group with the ``pyladies.com`` email address.
-
-.. note::
-
-    TIP!  Uber-frugal?  Get half-price Meetup fees!  Complete all of the Meetup forms, but stop when you reach the payment page. In 24 hours, you will receive an e-mail from Meetup.com, with a link to complete the payment process at half price. :)
-
-
-.. _meetup:
-
-3. If your Meetup groups' 6-month subscription is $89.94 USD (or equivalent) or more, please contact accounting@python.org to request being added to the PSF Meetup Pro network and include a link to your group's code of conduct.
-
-   Meetup subscription reimbursement requests should be submitted within 120 days from the start of a meetup subscription period or the reimbursement will not be approved. For example, if a meetup subscription period begins on June 25, 2018, the organizer may submit a grant request before June 25, 2018 or up to October 23, 2018.
-
-.. note::
-
-    Reimbursements of meetup subscriptions made to PSF fiscal sponsorees are not charged against the fiscal sponsoree's fund balance.
-    If you would like more detail go to the `PSF FAQ page`_.
-
-4. Sign up for a Heroku account with your ``pyladies.com`` email address.  This will be used to setup your website, which is documented at :doc:`../organizer/website/local` once you're ready.
-
-5. Fill out the `PyLadies resource form`_ for contact information, all group information, etc.  This is for administrative purposes (e.g. what social media accounts do we own, where should we send PyLadies stickers to, etc), and will not ever be shared outside of PyLadies.
-
-6. Request to join the following mailing lists:
-
-    1. `PyLadies Global Organizers list`_ - all global organizational communication and coordination is done via this list.  You'll be introduced to the mailing list.
-    2. `PyLadies Global Members list`_ - a global list for PyLadies (and PyGent allies) members. Feel free to introduce yourself and the new location.
-
-7. Join the `Pyladies Slack group`_. If you're familiar with IRC, come hang out in the ``#pyladies`` channel on Freenode.
-
-8. Plan your first event!  Check out :doc:`../organizer/neworganizer` for New Organizer information. Start promoting your new group via various local channels, including meetup.com, local PUGs, related groups, and universities, as well as the global PyLadies Members list!
-
-
-FAQs
-----
-
-.. include:: faqs.rst
-    :start-after: begin
+Please do *not* purchase domains or setup email addresses; we do that for you!
+We need to maintain accounts (both for trademark and administrative purposes).
 
 Questions & Contact
 -------------------
 
-If you have any questions or concerns about the process, `drop us an email <ping us>`_ or ping ``roguelynn`` or ``estherbester`` on Slack or in the ``#pyladies`` channel on Freenode!
+If you have any questions or concerns about the process, please head to
+`Pyladies Slack group`_ and ask in ``#prospective-organizers`` channel.
 
-.. _ping us: mailto:info@pyladies.com
-.. _grant process: https://www.python.org/psf/grants
-.. _initial PyLadies group interest form: https://docs.google.com/forms/d/18GjETzcU1KeqdrOMASeyCCNyl_wvWKpunUauLt6opS8/viewform
-.. _PSF FAQ page: https://www.python.org/psf/grants/faq/
-.. _PyLadies resource form: https://docs.google.com/forms/d/1f1jCD_XOf-06ifZkuSvAdCG9_Me0FnDWNxLQZY-JktU/viewform
-.. _PyLadies Global Organizers list: https://groups.google.com/d/forum/pyladies-group-organizers
-.. _PyLadies Global Members list: https://groups.google.com/d/forum/pyladies
 .. _Pyladies Slack group: https://slackin.pyladies.com/

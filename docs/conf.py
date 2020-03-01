@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 #
 
-extensions = []
+extensions = [
+    'sphinx.ext.viewcode',
+    'sphinx.ext.githubpages',
+]
+
 project = u'PyLadies Handbook'
 copyright = u'2014-2020, PyLadies'
 
@@ -11,8 +15,8 @@ try:
 except ImportError:
     sphinx_rtd_theme = None
 
-version = '2.1'
-release = '2.1.0'
+version = '2020.03'
+release = ''
 
 master_doc = 'index'
 exclude_patterns = ['_build', '_']
@@ -55,3 +59,9 @@ texinfo_documents = [
      u'PyLadies', 'PyLadiesHandbook', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+html_context = {
+    'display_github': True,
+    'github_user': 'pyladies',
+    'github_repo': 'pyladies-kit',
+}
