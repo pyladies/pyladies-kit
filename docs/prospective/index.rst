@@ -18,7 +18,7 @@ When you start your own PyLadies group, you'll be helping to build and grow loca
 Python community, through meetups, or sharing info through mailing lists, twitter, etc.
 
 A PyLadies group is not meant for a one-time event or workshop. There is an expectation
-for ongoing community activities through yourf group, at least once or twice a year.
+for ongoing community activities through your group, at least once or twice a year.
 Some of our groups are aiming for monthly events.
 
 Ideally the organizers in your group should be women or women majority. We also
