@@ -1,22 +1,15 @@
-Current Organizers
-==================
+For Current Organizers
+======================
 
 
-Handy Links
------------
+Organizing Guides
+-----------------
 
 .. toctree::
     :maxdepth: 1
 
-    faqs
     neworganizer
-
-Event Hosting
--------------
-
-.. toctree::
-    :maxdepth: 1
-
+    eventhosting/planning
     eventhosting/ideas
     eventhosting/sponsors
     eventhosting/grants
@@ -24,8 +17,22 @@ Event Hosting
     eventhosting/resources/index
     eventhosting/advice
 
-Admin Stuff
------------
+Useful Links
+------------
+
+- `Password Reset Form <https://forms.gle/AhnaDGbTAaBYdgUL8>`_ - Fill in this
+  form if you lost password to your ``chapter@pyladies.com`` email address
+
+- `Organizer Registration Form <https://forms.gle/cDegKej3JojdnQ6JA>`_ - Fill in this form if you're a new/current
+  organizer, or if you're stepping down from your role
+
+- `Organizers Directory <https://docs.google.com/spreadsheets/d/14--69LWAGhF_DA8iPGRAOoh7GMJ3qFmcMQwASWqPo54/edit?usp=sharing>`_
+  - Listing of current PyLadies organizers.
+  Any PyLadies organizer can view this by logging in using ``{chapter}@pyladies.com`` email address.
+
+
+Group Administration
+--------------------
 
 .. toctree::
     :maxdepth: 1

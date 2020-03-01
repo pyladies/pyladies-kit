@@ -3,6 +3,36 @@
 What's new?
 -----------
 
+2020.03.0
+^^^^^^^^^
+
+* Switch to CalVer ``YYYY.0M.MICRO`` format.
+
+* Reorganize the guides based on audience.
+
+* Add roles and expectations to prospective organizer section.
+
+* Update the new chapter request form.
+
+* Moved items from Prospective Organizers section that are related to setting up
+  meetup/ website into the Organizers section.
+
+* Mention the PSF's Meetup Pro Network.
+
+* Some typo fixes.
+
+* Add links to organizer registration, password reset form, and organizer directory.
+
+* Bump dependencies versions.
+
+* Add dependabot to auto update dependecies.
+
+* Add netlify previews.
+
+* Simplify the navigation.
+
+* Add "Edit on GitHub" link.
+
 v2.0.5
 ^^^^^^
 

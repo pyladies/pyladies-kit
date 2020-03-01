@@ -8,41 +8,19 @@ We are an international mentorship group with a focus on helping more women beco
 
 PyLadies also aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
+Guides
+------
 
-How to Use this Kit
--------------------
+1. For :doc:`Prospective Organizers <prospective/index>`.
+
+2. For :doc:`Current Organizers <organizer/index>`.
+
+3. For :doc:`PyLadies Members <member/index>`.
+
+
+
+Using this Kit
+--------------
 
 Copy our model (fork & contribute). Or fork and make it completely different. We don’t mind if you get creative!
 
-Purpose
-~~~~~~~
-
-There are a few purposes of this PyLadies kit:
-
-1. To help those interested in :doc:`starting <prospective/index>` their own local PyLadies
-2. To be a guide for :doc:`current local organizers <organizer/index>`
-3. To be a guide for  :doc:`members <member/index>`
-
-Currently, you can ``pip install pyladies`` (see :ref:`install`) with limited functionality.  But we plan on more awesome tools for the PyLadies package.
-
-.. _install:
-
-pip install pyladies
-~~~~~~~~~~~~~~~~~~~~
-
-Installation
-^^^^^^^^^^^^
-
-pyladies can be easily installed using::
-
-   $ pip install pyladies
-
-
-Usage
-^^^^^
-
-You can view the PyLadies docs by running::
-
-    $ pyladies handbook
-
-It's pretty limited functionality.  But stay tuned for more

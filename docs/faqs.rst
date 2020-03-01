@@ -50,10 +50,17 @@ Women who wouldn’t otherwise attend a Python user group meeting often attend l
 How do I set up reimbursement for Meetup fees?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The PSF will `most likely reimburse <http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html>`_ your Meetup.com organizer fees for a local Pyladies meetup. You
-can submit a grant proposal, and :doc:`here <grants/sample-meetup-proposal>` is a sample grant proposal to get you started.
+If the groups' Meetup 6-month subscription is $89.94 or more, please contact accounting@python.org
+to request being added to the PSF Meetup Pro network and include a link to your group's code of conduct.
+
+Meetup subscription reimbursement requests should be submitted within 120 days
+from the start of a meetup subscription period or the reimbursement will not be approved.
+For example, if a meetup subscription period begins on June 25, 2018,
+the organizer may submit a grant request before June 25, 2018 or up to October 23, 2018.
 
 What if my question isn’t answered here?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ask in IRC #pyladies on `freenode <http://irc.freenode.net>`_ if you must. But feel free to organize your PyLadies group however you wish, and make it completely your own. We’re here to help you, not to limit you or control your plans.
+Please `open an issue on GitHub <https://github.com/pyladies/info/issues>`_
+and one of us will get back to you. If you're a PyLadies organizer, you can
+always get in touch with us through the ``#organizers`` channel on Slack.

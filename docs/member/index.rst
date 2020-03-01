@@ -1,5 +1,5 @@
-Member Reference
-================
+For Members
+===========
 
 
 .. include:: about.rst
