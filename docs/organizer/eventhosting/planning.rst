@@ -10,7 +10,7 @@ A local group can be:
 #. a student group: for a university, college, or school
 #. an interest group: for any topic (e.g. PyGame, SciPy, Django)
 
-The larger the local group, the harder it is to meet in person. Large local group's
+The larger the local group, the harder it is to meet in person. Large local group
 events will be mostly virtual meetups that occur online, whereas small local group's
 events tend to be in-person meetups.
 
@@ -36,4 +36,3 @@ You can hold more events with proper support and planning.
 
 Suggestions for event types and event resources can be found under
 :doc:`../../organizer/eventhosting/ideas` and :doc:`../../organizer/eventhosting/resources/index`.
-
