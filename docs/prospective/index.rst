@@ -26,7 +26,7 @@ require at least two co-organizers in your group to help share the workload
 and prevent burnout from any single organizer.
 
 When requesting a chapter, we ask that it be local and city-based. If an existing
-chapter already exists in your city, a second one may be allowed depends on
+chapter already exists in your city, a second one may be allowed depending on
 circumstances.
 
 Role and Responsibilities of the Organizer
