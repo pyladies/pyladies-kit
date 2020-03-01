@@ -11,7 +11,7 @@ A local group can be:
 #. an interest group: for any topic (e.g. PyGame, SciPy, Django)
 
 The larger the local group, the harder it is to meet in person. Large local group
-events will be mostly virtual meetups that occur online, whereas small local group's
+events will be mostly virtual meetups that occur online, whereas small local group
 events tend to be in-person meetups.
 
 A local group can consist of sub-local-groups, making both the in-person and
