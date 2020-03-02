@@ -60,7 +60,7 @@ Process overview
    mentorship from experienced organizers, and for you to ask questions about
    starting your own group.
 
-2. Once you're ready to start your own group, please fill in the `New Chapter Registration Form < https://forms.gle/QFUcNSRGE3XqzPu76 >`_.
+2. Once you're ready to start your own group, please fill in the `New Chapter Registration Form <https://forms.gle/QFUcNSRGE3XqzPu76>`_.
 
 3. We review new chapter requests once per month. Your request will be reviewed
    in the following month after you filed your request. For example, if you
