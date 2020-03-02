@@ -10,6 +10,10 @@ We’re excited to have people like you join our growing community and want to h
 
 To help you get started, we’ve created this open-source kit for starting your own PyLadies group in your city. PyLadies is part social club, part stepping stone toward the Python open-source world.
 
+.. note::
+
+   Fill in the `New Chapter Request Form: <https://forms.gle/QFUcNSRGE3XqzPu76>`_ when you're ready to start a new group.
+
 
 Guidelines for Starting Your Own Group
 --------------------------------------
