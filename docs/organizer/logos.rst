@@ -14,6 +14,6 @@ There is "official" merchandise sold - with proceeds going towards PyLadies - at
 .. _PyLadies assets repo: https://github.com/pyladies/pyladies-kit
 .. _PyLadies leadership: mailto:info@pyladies.com
 .. _ask: mailto:info@pyladies.com
-.. _spreadshirt site: https://pyladies.spreadshirt.com
+.. _spreadshirt site: https://shop.spreadshirt.com/pyladies/
 
 
