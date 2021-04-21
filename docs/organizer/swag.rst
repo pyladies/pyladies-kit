@@ -6,7 +6,7 @@ Swag
 Swag: T-Shirts, Stickers, and Other Merchandise
 -----------------------------------------------
 
-Currently, T-shirts are available via `Spreadshirt <http://pyladies.spreadshirt.com/>`_. Proceeds from the shop benefit the PyLadies organization and go toward things like nonprofit corporation setup, helping new local groups, servers, etc.
+Currently, T-shirts are available via `Spreadshirt <https://shop.spreadshirt.com/pyladies/>`_. Proceeds from the shop benefit the PyLadies organization and go toward things like nonprofit corporation setup, helping new local groups, servers, etc.
 
 Sometimes we also create limited runs of T-shirts, stickers, etc. Check the blog or ask around in IRC #pyladies if you’re interested in seeing what we have.
 
