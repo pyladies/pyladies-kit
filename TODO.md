@@ -15,10 +15,6 @@
 * [ ] Update `global/index.md` with global council info
 * [ ] Update `global/contact.md` - remove IRC, add global council email address + working group email addresses, common Slack channels, convention of `#city-<NAME>` for Slack city channels
 * [ ] Do we need `global/policies.md` page?
-* [ ] Update IRC references to Slack
-    * `organizer/swag`
-    * `organizer/global/policies`
-    * `organizer/eventhosting/promotion`
 * [ ] Organize `organizer/` side navbar that match subdirs / what's  `organizer/index.md`
 * [ ] Migrate all the `*.inc` files (rst format) to MD
 * [ ] Update any references to the global pyladies organizers' list
@@ -44,6 +40,7 @@
 * [ ] Refresh global website setup instructions with latest processes
 * [ ] Clean up any unused cross-references
 * [x] Update code block styles (I don't like the yellow background in light mode)
+* [x] Update IRC references to Slack
 
 ### Old TODOs (2015.08)
 

@@ -8,12 +8,11 @@ You are **not obligated** to report harassment that you've faced, or witnessed! 
 
 ## Who to Talk to
 
-If you've faced harassment or witness an event attendee or someone within a PyLadies chatroom, we encourage you to report what you saw to an organizer, chat operator, or whomever is in charge of the space.  For instance, if the incident was during a local PyLadies Meetup event, reach out to the organizer(s) of that specific event.  If the incident was within the `#pyladies` IRC channel, please privately message the operator of the channel, currently `@roguelynn` (a.k.a. [Lynn Root]).  You can also hop into the `#pyladies-support` channel for "live" discussion too.
+If you've faced harassment or witness an event attendee or someone within a PyLadies chatroom, we encourage you to report what you saw to an organizer, chat operator, or whomever is in charge of the space.  For instance, if the incident was during a local PyLadies Meetup event, reach out to the organizer(s) of that specific event.  If the incident was within the {ref}`PyLadies Slack org<slack>`, please privately message the `@admin` usergroup (a small group of PyLadies - click on the name in Slack to see who is a part of the group).  You can also hop into the `#pyladies-support` channel for "live" discussion too.
 
 If you can not find whomever is in charge with the PyLadies space, do not feel comfortable talking to them, or you wish to report a leader: please feel welcome to [email us].  The following PyLadies organizers are behind the Code of Coduct contact:
 
-- [Esther Nam] - Los Angeles
-- [Lynn Root] - San Francisco
+* TODO
 
 If you are not comfortable with one or more of the leaders above, please feel welcome to reach out to an individual above that you are comfortable with.
 
@@ -72,9 +71,9 @@ When reporting the incident, depending on your level of comfort and the level of
 - ban `<HARASSER>` from future events
 - assist me in referring `<HARASSER>`'s actions to law enforcement
 
-### Online services (IRC, forums, etc)
+### Online services (Slack, forums, etc)
 
-PyLadies has an official IRC channel (`#pyladies` on Freenode), a Reddit subreddit ([/r/pyladies]), and a [Google+ community].  For those, you may contact the admin(s) or moderator(s) of such services, or reach out directly to [us].  There are many online groups that PyLadies organizers have for location-specific groups, in which contacting the admin(s)/moderator(s) or the contact email listed on our [locations] page may be best (you are still free to contact the [main email] as well!)
+PyLadies has an official {ref}`Slack organization<slack>`, a Reddit subreddit ([/r/pyladies]), and probably presence in many other apps & sites in the ever-changing social media landscape. For those, you may contact the admin(s) or moderator(s) of such services, or reach out directly to [us].  There are many online groups that PyLadies organizers have for location-specific groups, in which contacting the admin(s)/moderator(s) or the contact email listed on our [locations] page may be best (you are still free to contact the [main email] as well!)
 
 Example actions:
 
@@ -163,8 +162,6 @@ Possible actions to request
 [email us]: mailto:coc@pyladies.com
 [esther nam]: mailto:esthernam@gmail.com
 [geek feminism wiki]: http://geekfeminism.wikia.com/wiki/Reporting_harassment
-[google+ community]: mailto:coc@pyladies.com
 [locations]: http://www.pyladies.com/locations
-[lynn root]: mailto:lynn@pyladies.com
 [main email]: mailto:coc@pyladies.com
 [us]: mailto:coc@pyladies.com

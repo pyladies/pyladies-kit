@@ -6,7 +6,7 @@
 
 Currently, T-shirts are available via [Spreadshirt](https://shop.spreadshirt.com/pyladies/). Proceeds from the shop benefit the PyLadies organization and go toward things like nonprofit corporation setup, helping new local groups, servers, etc.
 
-Sometimes we also create limited runs of T-shirts, stickers, etc. Check the blog or ask around in IRC #pyladies if you’re interested in seeing what we have.
+Sometimes we also create limited runs of T-shirts, stickers, etc. Check the blog or ask around in {ref}`Slack <slack>` if you’re interested in seeing what we have.
 
 ## Local group merchandise
 

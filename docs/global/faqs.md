@@ -34,7 +34,7 @@ Women who wouldn’t otherwise attend a Python user group meeting often attend l
 
 ## What if my question isn’t answered here?
 
-Ask in IRC in the official `#pyladies` channel on [freenode][irc] or send an [email].
+Ask in our {ref}`Slack organization<slack>` in the `#general` channel or send an [email].
 
 [email]: mailto:info@pyladies.com
 [irc]: http://irc.freenode.net

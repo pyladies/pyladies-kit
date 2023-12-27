@@ -52,7 +52,7 @@ Hackathons can be evening, full-day, or all-weekend events.
 
 PyLadiesAU held their first group meeting as a virtual meetup. See [Australian PyLadies] for details.
 
-The IRC #pyladies channel is always available for anyone to use for virtual meetups. Feel free to use it without asking, or create a #pyladies-whatever channel if you prefer.
+The {ref}`PyLadies Slack org <slack>` is always available for anyone to use for virtual meetups. Feel free to create a `#{{chaptername}}-{{eventname}}` channel.
 
 ### Meetups as part of a Python user group (PUG) meetup
 

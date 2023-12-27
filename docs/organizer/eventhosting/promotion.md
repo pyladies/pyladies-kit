@@ -41,7 +41,7 @@ provide text and/or images for us to use:
 
 In addition, promote all of your events directly through the following:
 1. PyLadies Google group: <http://groups.google.com/group/pyladies>
-2. #pyladies IRC channel (FreeNode)
+2. {ref}`PyLadies Slack org <slack>`
 
 Whenever you have news of interest to the PyLadies community, all the
 above channels are available to help you make your announcement. We are
