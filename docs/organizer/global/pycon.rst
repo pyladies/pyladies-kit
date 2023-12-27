@@ -1,5 +1,0 @@
-PyLadies @ PyCon
-================
-
-
-TODO
