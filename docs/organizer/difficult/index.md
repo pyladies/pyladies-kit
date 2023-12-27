@@ -3,7 +3,6 @@
 ```{toctree}
 :maxdepth: 1
 
-coc
 responding
 burnout
 ```

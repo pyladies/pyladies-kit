@@ -1,6 +1,6 @@
 (burnout)=
 
-# Resources for dealing with volunteer burnout
+# Dealing with Burnout
 
 Organizing a PyLadies group is *hard* work, and often under-appreciated. Here are some ways to recognize the signs of burnout, and ways to prevent, deal with, or otherwise alleviate it.
 

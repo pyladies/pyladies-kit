@@ -35,7 +35,6 @@ While we all strive to be awesome, sh\*t happens.  Please have a read of the fol
 ```{toctree}
 :maxdepth: 1
 
-coc
 reporting
 ```
 

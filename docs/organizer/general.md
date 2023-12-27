@@ -1,5 +1,15 @@
 # General
 
+## Useful Links
+
+- [Password Reset Form](https://forms.gle/AhnaDGbTAaBYdgUL8) - Fill in this
+  form if you lost password to your `{{chapter}}@pyladies.com` email address
+- [Organizer Registration Form](https://forms.gle/cDegKej3JojdnQ6JA) - Fill in this form if you're a new/current
+  organizer, or if you're stepping down from your role
+- [Organizers Directory](https://docs.google.com/spreadsheets/d/14--69LWAGhF_DA8iPGRAOoh7GMJ3qFmcMQwASWqPo54/edit?usp=sharing)
+  \- Listing of current PyLadies organizers.
+  Any PyLadies organizer can view this by logging in using `{{chapter}}@pyladies.com` email address.
+
 ## Email & Google Apps
 
 All PyLadies locations will have their own general email address (e.g. `nyc@pyladies.com`).  You and your other co-organizers can manage that email address how you'd like (e.g. all co-organizers can log in; all email is forwarded; only one organizer manages it; etc).
@@ -39,30 +49,6 @@ the organizer may submit a grant request before June 25, 2018 or up to October 2
 You are free and encouraged to use any social media that you'd like (be sure to register the account with your `@pyladies.com` email address! See {ref}`acctmgmt`).
 
 Be sure to fill out the [PyLadies Resource Form] for data collection so we can be aware of your local "footprint" - both for PSF trademark reasons (to know if the use of the PyLadies name is legitimate) and for account recovery/handover process.
-
-(logos)=
-
-## Swag, Logo Use, and Adaptation
-
-You may of course use the PyLadies Wordmark and PyLadies Geek logos for promotion, and/or alter them to adapt to your location.  Check out our [locations] page for inspiration.
-
-Please read our {doc}`logo usage policy <../policies/logo>`, but in general, we want the logo to be used as widely as possible to indicate the support of or involvement with PyLadies. If you are a local PyLadies leader, you are free to adapt the logo to your location.  (Non-leaders, please [ask] first when using a derived version of the logo or when in doubt).
-
-TL;DR is that any of the graphics in our [PyLadies assets repo] can be used for your own group promotion and/or to show your support.  You may also alter the PyLadies Wordmark or PyLadies Geek logo to adapt it to your location. Check out examples on our [locations site](http://www.pyladies.com/locations).
-
-### Selling PyLadies Merchandise
-
-Logos used with the intention to sell merchandise, please seek permission from the [PyLadies leadership].
-
-Currently, T-shirts are available via [Spreadshirt](https://shop.spreadshirt.com/pyladies/). Proceeds from the shop benefit the PyLadies organization and go toward things like nonprofit corporation setup, helping new local groups, servers, etc.
-
-Sometimes we also create limited runs of T-shirts, stickers, etc., particularly around PyCon US. Check the blog or ask around in {ref}`Slack <slack>` if you’re interested in seeing what we have.
-
-### Local group merchandise
-
-If you’d like to create merchandise for your own local group, you can create a shop on Spreadshirt, Zazzle, or any other print-on-demand site and have the proceeds go toward your local group.
-
-Or you can have a local print shop print a small run.
 
 ## Global Website
 

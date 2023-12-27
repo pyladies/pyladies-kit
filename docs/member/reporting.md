@@ -1,3 +1,4 @@
+(coc-report)=
 # Reporting Harassment
 
 People can be jerks.  Sh\*t can happen.  PyLadies wants to provide a safe space for its members, so we've written this document to help those who experience harassment within the PyLadies community.

@@ -1,3 +1,4 @@
+(coc-respond)=
 # Responding to CoC Violations
 
 As a PyLadies organizer, you may get reports of harassment or other {ref}`coc` violations.  It can

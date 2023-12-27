@@ -1,10 +1,10 @@
 # Policies
 
-For policies from a local organizer's prospective, please check out {doc}`../organizer/global/policies`.
+For policies from a local organizer's prospective, please check out {ref}`chapter-policies`.
 
 ## Trademark
 
-PyLadies and the PyLadies logo are trademarks of the Python Software Foundation. For logo usage guidelines, please read {doc}`../policies/logo`, and for trademark usage, please read {doc}`../policies/trademark`.
+PyLadies and the PyLadies logo are trademarks of the Python Software Foundation. For logo usage guidelines, please read {ref}`logo-policy`, and for trademark usage, please read {ref}`trademark-policy`.
 
 ## Code of Conduct
 
