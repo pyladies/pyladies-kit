@@ -16,5 +16,4 @@ If you are not a local PyLadies leader, please check out {doc}`contact`.
 
 contact
 pycon
-policies
 ```
