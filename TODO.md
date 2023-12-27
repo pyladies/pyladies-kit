@@ -4,21 +4,21 @@
 
 * [ ] Migrate to `pyproject.toml`
 * [ ] Update version in `setup.py` once ready to release
-* [ ] Do we need `netlify.toml` and `runtime.txt`?
+* [ ] Create github workflow to actually upload to PyPI on releases
 * [ ] General content refresh
 * [ ] Add light & dark site logos ([example](https://github.com/python-attrs/attrs/blob/main/docs/conf.py#L98-L99))
 * [ ] Do something about `misc/index.md` - it's empty and boring
 * [ ] Should `misc` be "Policies"?
 * [ ] Read through the content itself - grammar, typos, punctuation, unfinished thoughts, etc
 * [ ] Update `members/reporting.md`
+* [ ] Remove duplicate content (CoC in particular)
 * [ ] Move content in `member/index.md` to separate pages, so it doesn't look like the only content under `member/` is CoC & reporting harassment
 * [ ] Update `global/index.md` with global council info
 * [ ] Update `global/contact.md` - remove IRC, add global council email address + working group email addresses, common Slack channels, convention of `#city-<NAME>` for Slack city channels
 * [ ] Do we need `global/policies.md` page?
 * [ ] Organize `organizer/` side navbar that match subdirs / what's  `organizer/index.md`
-* [ ] Migrate all the `*.inc` files (rst format) to MD
 * [ ] Update any references to the global pyladies organizers' list
-* [ ] Use linkcheck
+* [ ] Use linkcheck (after running, check `docs/_build/linkcheck/output.txt` for all broken links)
 * [ ] Refresh any resources linked - maybe choose more current resources
     * e.g. `organizer/website/global.md`'s reference to [virtualenv](http://simononsoftware.com/virtualenv-tutorial/)
 * [ ] Update domain contacts on `organizer/website/local.md`
@@ -40,7 +40,10 @@
 * [ ] Refresh global website setup instructions with latest processes
 * [ ] Clean up any unused cross-references
 * [x] Update code block styles (I don't like the yellow background in light mode)
+* [x] Migrate all the `*.inc` files (rst format) to MD
+* [x] Do we need `netlify.toml` and `runtime.txt`?
 * [x] Update IRC references to Slack
+
 
 ### Old TODOs (2015.08)
 
