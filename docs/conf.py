@@ -65,4 +65,12 @@ html_context = {
 
 # MyST extension configuration
 myst_heading_anchors = 6
-suppress_warnings = ["myst.header"]
+suppress_warnings = ["myst.header", "myst.strikethrough"]
+myst_enable_extensions = [
+    "colon_fence",
+    "deflist",
+    "fieldlist",
+    "smartquotes",
+    "strikethrough",
+    "tasklist",
+]
