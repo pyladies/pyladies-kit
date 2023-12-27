@@ -1,41 +1,64 @@
 # FAQs
 
-## Can men attend local PyLadies group events?
+## General
 
-It’s up to you. Generally, it’s good to hold women-only events as well as events for both genders (either women and +1 guests, or anyone who wants to attend). Just be aware that the dynamic of the room tends to change when the male:female ratio becomes lopsided.
+### Can men join PyLadies?
 
-A good way to hold a mixed-gender event is to partner with a local Python user group.
+Anyone can be a PyLady – only condition is to love (or at least want to learn) Python.
 
-Be extra-clear in your event description about whether men are allowed/what the rules are -- it will save you a lot of time, and prevent awkward conversations.
+However, please [be respectful of local events](#can-men-attend-local-pyladies-group-events) and the policies that local chapters set up.
 
-## Is there anything like PyLadies specifically for men?
+### Can transgender women join PyLadies?
 
-There doesn’t seem to be a burning need for a PyLadies for Men ;) That said, if you’re a man and want to start a similar group, we’ll support you. You can even make PyLadies knock-off t-shirts. One enterprising gent has printed “PyLaddies” shirts, and there is an IRC channel on Freenode, #pygents, for the men who love PyLadies =)
+Anyone can be a PyLady – only condition is to love (or at least want to learn) Python.
 
-## Can I use the PyLadies logo and graphics for any purpose?
+### Can non-binary people join PyLadies?
 
-Any of the graphics at [https://github.com/pyladies/pyladies-kit](https://github.com/pyladies/pyladies-kit) can be used for your own group promotion. Feel free to use them for websites, printed materials, t-shirts, and anything else that benefits your group.
+Anyone can be a PyLady – only condition is to love (or at least want to learn) Python.
 
-Even if you don’t have an official group, you can use the graphics for anything women-in-Python related, as long as any funds resulting from your use of the graphics go toward Python gender diversity initiatives.
+### Is your goal to segregate by gender?
 
-## Can transgender women be PyLadies?
+No! PyLadies and local PyLadies chapters are about making the Python community explicitly welcoming and accessible to women & non-binary folks.
 
-Anyone who considers herself a lady and does Python is a PyLady/Python lady. We support all women, whether female by birth or not.
+Women and non-binary people who wouldn’t otherwise attend a Python user group meeting often attend local PyLadies events, as a gateway to getting involved with Python programming as a beginner, or getting more involved in the Python community as an intermediate/advanced developer.
 
-We encourage you sure to make trans women feel welcome by saying so in your meetup group and event descriptions. Here is an example of a statement you could include:
+### Where can I get PyLadies swag?
+There is "official" merchandise sold - with proceeds going towards PyLadies - at our own [spreadshirt site].
 
-> PyLadies \[city\] is welcoming to and respectful of trans women. We
-> encourage all women to come out to our meetups.
+We also regularly sell t-shirts and give away stickers at the annual PyCon US conference. We might be at other conferences, too.
 
-If the idea of trans people is new to you, you might want to take a look at [this fantastic illustrated book about gender](http://www.thegenderbook.com), [this comic](http://www.roostertailscomic.com/?p=1495), or any of the many other introductions to trans issues on the internet.
+## Organizers
 
-## Is your goal to segregate by gender?
+### Can men attend local PyLadies group events?
 
-No! PyLadies and local PyLadies groups are about making the Python community explicitly welcoming and accessible to women.
+It’s up to the organizers of the chapter. Generally, it’s good to hold women- & non-binary-only events as well as events for everyone (either women/non-binary and +1 guests, or anyone who wants to attend).
+Just be aware that the dynamic of the room tends to change when the male:female ratio becomes lopsided.
 
-Women who wouldn’t otherwise attend a Python user group meeting often attend local PyLadies group events, as a gateway to getting involved with Python programming as a beginner, or getting more involved in the Python community as an intermediate/advanced developer.
+A good way to hold an all-inclusive event is to partner with a local Python user group.
 
-## How do I set up reimbursement for Meetup fees?
+Be extra-clear in your event description about whether men are allowed/what the rules are – it will save you a lot of time, and prevent awkward conversations.
+
+### How can I make my chapter inclusive?
+
+We encourage you sure to make trans women and non-binary folks feel welcome by saying so in your meetup group and event descriptions. 
+Here is an example of a statement you could include:
+
+> PyLadies \[chapter\] is welcoming to and respectful of transgender and non-binary people. We
+> encourage all women and non-binary folks to come out to our meetups.
+
+If the idea of trans & non-binary people is new to you, you might want to take a look at [this fantastic illustrated book about gender](http://www.thegenderbook.com), [this comic](http://www.roostertailscomic.com/?p=1495), or any of the many other introductions to trans issues on the internet.
+
+_Have more resources? Awesome - please [contribute]!_
+
+### Can I use the PyLadies logo and graphics for any purpose?
+
+Yes! But please read our {ref}`logo usage policy <logo-policy>`.
+
+TL;DR is that any of the graphics in our [PyLadies assets repo] can be used for local group promotion and/or to show your support.
+
+Logos used with the intention to sell merchandise, please seek permission from the [PyLadies leadership].
+
+### How do I set up reimbursement for Meetup fees?
 
 If the groups' Meetup 6-month subscription is \$89.94 or more, please contact <mailto:accounting@python.org>
 to request being added to the PSF Meetup Pro network and include a link to your group's code of conduct.
@@ -50,3 +73,9 @@ the organizer may submit a grant request before June 25, 2018 or up to October 2
 Please [open an issue on GitHub](https://github.com/pyladies/info/issues)
 and one of us will get back to you. If you're a PyLadies organizer, you can
 always get in touch with us through the `#organizers` channel on Slack.
+
+
+[contribute]: https://github.com/pyladies/pyladies-kit/edit/master/docs/faqs.md
+[pyladies assets repo]: https://github.com/pyladies/pyladies-kit
+[pyladies leadership]: mailto:info@pyladies.com
+[spreadshirt site]: https://shop.spreadshirt.com/pyladies/

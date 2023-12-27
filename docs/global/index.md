@@ -13,6 +13,5 @@ We do have a few point people that can answer and address general, or non-locati
 :maxdepth: 1
 
 contact
-faqs
 policies
 ```
