@@ -66,6 +66,13 @@ html_context = {
 # MyST extension configuration
 myst_heading_anchors = 6
 suppress_warnings = ["myst.header", "myst.strikethrough"]
+html_theme_options = {
+    "light_css_variables": {"color-announcement-background": "#e51e41"},
+    "sidebar_hide_name": True,
+    "source_repository": "https://github.com/pyladies/pyladies-kit/",
+    "source_branch": "master",
+    "source_directory": "docs/",
+}
 myst_enable_extensions = [
     "colon_fence",
     "deflist",
@@ -74,3 +81,10 @@ myst_enable_extensions = [
     "strikethrough",
     "tasklist",
 ]
+
+set_announcement = True
+current_announcement_html = """
+<b>PyCon US 2024:</b> <a href='https://us.pycon.org/2024/attend/travel-grants/'>Apply for a travel grant</a> by February 16th, 2024!
+"""
+if set_announcement:
+    html_theme_options["announcement"] = current_announcement_html

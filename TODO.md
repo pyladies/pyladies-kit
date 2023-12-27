@@ -7,7 +7,6 @@
 * [ ] Do we need `netlify.toml` and `runtime.txt`?
 * [ ] General content refresh
 * [ ] Add light & dark site logos ([example](https://github.com/python-attrs/attrs/blob/main/docs/conf.py#L98-L99))
-* [ ] Update code block styles (I don't like the yellow background in light mode)
 * [ ] Do something about `misc/index.md` - it's empty and boring
 * [ ] Should `misc` be "Policies"?
 * [ ] Read through the content itself - grammar, typos, punctuation, unfinished thoughts, etc
@@ -44,6 +43,7 @@
 * [ ] Add content to `organizer/admin/handover`
 * [ ] Refresh global website setup instructions with latest processes
 * [ ] Clean up any unused cross-references
+* [x] Update code block styles (I don't like the yellow background in light mode)
 
 ### Old TODOs (2015.08)
 
