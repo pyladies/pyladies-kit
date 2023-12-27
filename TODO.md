@@ -36,9 +36,11 @@
 * [ ] Refresh Responding to CoC violations with info from Sage's workshop
     * [ ] update contact info for people maintianing CoC reports
     * [ ] also find volunteers
-* [ ] Add content to `organizer/admin/handover`
+* [ ] Add Handover process content to `organizer/general`
 * [ ] Refresh global website setup instructions with latest processes
 * [ ] Clean up any unused cross-references
+* [ ] Add info about 1Password under `organizer/general`
+* [ ] Setup [custom 404](https://docs.readthedocs.io/en/stable/reference/404-not-found.html) and use `sphinx-notfound-page`
 * [x] Update code block styles (I don't like the yellow background in light mode)
 * [x] Migrate all the `*.inc` files (rst format) to MD
 * [x] Do we need `netlify.toml` and `runtime.txt`?

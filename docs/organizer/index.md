@@ -5,14 +5,8 @@
 ```{toctree}
 :maxdepth: 1
 
-neworganizer
-eventhosting/planning
-eventhosting/ideas
-eventhosting/sponsors
-eventhosting/grants
-eventhosting/promotion
-eventhosting/resources/index
-eventhosting/advice
+general
+eventhosting/index
 ```
 
 ## Useful Links
@@ -30,9 +24,7 @@ eventhosting/advice
 ```{toctree}
 :maxdepth: 1
 
-website/global
-website/local
-admin/handover
+website/index
 ```
 
 ## Global Organization
@@ -41,17 +33,6 @@ admin/handover
 :maxdepth: 1
 
 global/index
-global/pycon
-global/policies
-```
-
-## Miscellaneous Helpful Stuff
-
-```{toctree}
-:maxdepth: 1
-
-logos
-swag
 ```
 
 ## Difficult Stuff
@@ -59,7 +40,5 @@ swag
 ```{toctree}
 :maxdepth: 1
 
-difficult/coc
-difficult/responding
-difficult/burnout
+difficult/index
 ```

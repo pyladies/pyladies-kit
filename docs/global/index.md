@@ -1,7 +1,7 @@
 ---
 hide-toc: true
 ---
-# Global PyLadies Organization
+# The Global Organization
 
 The global PyLadies community has no formal organization behind it; no board of directors, no appointed leadership.  We found that PyLadies growth and success stems from being decentralized and non-bureaucratic.
 

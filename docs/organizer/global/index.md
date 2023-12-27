@@ -26,6 +26,13 @@ The editor of an upcoming issue of the PyLadies global newsletter might make an 
 
 If you'd like to volunteer to edit the next issue, all you have to do is shoot an email to the organizers mailing list! Warning: it's a lot of work!  We use Mailchimp.
 
+```{toctree}
+:maxdepth: 1
+
+policies
+pycon
+```
+
 [general email]: mailto:info@pyladies.com
 [global mailing list]: https://groups.google.com/forum/#!forum/pyladies
 [mailing list]: https://groups.google.com/forum/#!forum/pyladies-group-organizers

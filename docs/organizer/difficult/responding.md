@@ -1,6 +1,6 @@
 # Responding to CoC Violations
 
-As a PyLadies organizer, you may get reports of harassment or other {doc}`../../coc` violations.  It can
+As a PyLadies organizer, you may get reports of harassment or other {ref}`coc` violations.  It can
 be confusing and stressful to deal with.  But have no fear!  Adapted from [Geek Feminism], we have
 some guidelines.
 
@@ -42,9 +42,9 @@ If an incident happens in your local PyLadies community, you must report it to t
 
 You are of course welcome and invited to request help from the global PyLadies organization.  We are here for resources, advice, or just to talk to.
 
-The global organization is also responsible for complaints of local organizers.  If you received or witnessed unwanted behavior in any way that breaks our {doc}`../../coc` by another organizer, please do not hesitate to contact us.  You may report any violations via [our global report form], or contact us at [coc@pyladies.com].
+The global organization is also responsible for complaints of local organizers.  If you received or witnessed unwanted behavior in any way that breaks our {ref}`coc` by another organizer, please do not hesitate to contact us.  You may report any violations via [our global report form], or contact us at [coc@pyladies.com].
 
-The following people maintain any {doc}`../../coc` reports:
+The following people maintain any {ref}`coc` reports:
 
 - Esther Nam ([la@pyladies.com])
 - Lynn Root ([sf@pyladies.com])
@@ -97,11 +97,11 @@ An organizer can provide the {ref}`emergency` and say something like "if you wan
 
 These include things like harassing content in talks, or harassment that took place in a crowded space.
 
-Simply say "Thanks, this sounds like a breach of our {doc}`../../coc`. I am going to convene a meeting of a small group of people and figure out what our response will be."
+Simply say "Thanks, this sounds like a breach of our {ref}`coc`. I am going to convene a meeting of a small group of people and figure out what our response will be."
 
 ### Reports of more private harassment
 
-Offer the reporter/victim a chance to decide if any further action is taken: "OK, this sounds like a breach of our {doc}`../../coc` policy. If you're OK with it I am going to convene a meeting of a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
+Offer the reporter/victim a chance to decide if any further action is taken: "OK, this sounds like a breach of our {ref}`coc` policy. If you're OK with it I am going to convene a meeting of a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
 
 ### Things not to do
 

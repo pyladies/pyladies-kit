@@ -1,4 +1,4 @@
-# PyLadies Trademark Usage Policy
+# Trademark Usage Policy
 
 *Version 1.0.0*
 

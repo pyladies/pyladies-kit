@@ -113,7 +113,7 @@ It shows up on the [locations] page as its own little "card":
 ```{eval-rst}
 .. option:: image
 
-    **required** The ``image`` attribute is the filename of the location's image that should be placed in the ``www/_assets/images/`` directory.  You can use a standard one that's already in the repository, or adapt the logo to your location (see :doc:`../logos`).
+    **required** The ``image`` attribute is the filename of the location's image that should be placed in the ``www/_assets/images/`` directory.  You can use a standard one that's already in the repository, or adapt the logo to your location (see :ref:`logos`).
 
     .. image:: ../../_static/images/location_config/image.png
         :alt: Config: image

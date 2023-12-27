@@ -6,9 +6,7 @@ The `pyladies` kit gets you up and running with starting a PyLadies local group,
 
 The `pyladies` documentation is licensed under the [Creative Commons Attribution 3.0 Unported License].  The `pyladies` code is licensed under the [MIT License].
 
-The PyLadies wordmark and logo is trademarked, with the usage policy available here defined {doc}`misc/trademark`.
-
-
+The PyLadies wordmark and logo is trademarked, with the usage policy available here defined {doc}`policies/trademark`.
 
 
 ```{toctree}
@@ -19,12 +17,10 @@ prospective/index
 organizer/index
 member/index
 global/index
+policies/index
 faqs
-installation
-misc/index
 changelog
 ```
-
 
 [creative commons attribution 3.0 unported license]: http://creativecommons.org/licenses/by/3.0/
 [mit license]: http://choosealicense.com/licenses/mit/

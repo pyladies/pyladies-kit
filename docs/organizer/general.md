@@ -1,4 +1,4 @@
-# New Organizer Reference
+# General
 
 ## Email & Google Apps
 
@@ -40,11 +40,29 @@ You are free and encouraged to use any social media that you'd like (be sure to 
 
 Be sure to fill out the [PyLadies Resource Form] for data collection so we can be aware of your local "footprint" - both for PSF trademark reasons (to know if the use of the PyLadies name is legitimate) and for account recovery/handover process.
 
-## Logo Use & Adaptation
+(logos)=
+
+## Swag, Logo Use, and Adaptation
 
 You may of course use the PyLadies Wordmark and PyLadies Geek logos for promotion, and/or alter them to adapt to your location.  Check out our [locations] page for inspiration.
 
-Please read our {doc}`../misc/trademark`, especially if you plan on using the logos to print merchandise for sale.
+Please read our {doc}`logo usage policy <../policies/logo>`, but in general, we want the logo to be used as widely as possible to indicate the support of or involvement with PyLadies. If you are a local PyLadies leader, you are free to adapt the logo to your location.  (Non-leaders, please [ask] first when using a derived version of the logo or when in doubt).
+
+TL;DR is that any of the graphics in our [PyLadies assets repo] can be used for your own group promotion and/or to show your support.  You may also alter the PyLadies Wordmark or PyLadies Geek logo to adapt it to your location. Check out examples on our [locations site](http://www.pyladies.com/locations).
+
+### Selling PyLadies Merchandise
+
+Logos used with the intention to sell merchandise, please seek permission from the [PyLadies leadership].
+
+Currently, T-shirts are available via [Spreadshirt](https://shop.spreadshirt.com/pyladies/). Proceeds from the shop benefit the PyLadies organization and go toward things like nonprofit corporation setup, helping new local groups, servers, etc.
+
+Sometimes we also create limited runs of T-shirts, stickers, etc., particularly around PyCon US. Check the blog or ask around in {ref}`Slack <slack>` if you’re interested in seeing what we have.
+
+### Local group merchandise
+
+If you’d like to create merchandise for your own local group, you can create a shop on Spreadshirt, Zazzle, or any other print-on-demand site and have the proceeds go toward your local group.
+
+Or you can have a local print shop print a small run.
 
 ## Global Website
 
@@ -54,6 +72,17 @@ When you're ready to go public, you should add yourself to the PyLadies [locatio
 
 Have a few minutes?  Or want to make a local event around creating your local PyLadies website?  Awesome!  Please head over to {doc}`website/local` to get started!
 
+## The Handover Process
+
+TODO (what to do when you want to step down and hand the reins to another organizer)
+
+
+[ask]: mailto:info@pyladies.com
+[custom ink]: http://www.customink.com/
+[elegant stitches]: http://www.companycasuals.com/elegantstitchesconway/start.jsp
+[pyladies assets repo]: https://github.com/pyladies/pyladies-kit
+[pyladies leadership]: mailto:info@pyladies.com
+[spreadshirt site]: https://shop.spreadshirt.com/pyladies/
 [lastpass]: https://lastpass.com/
 [locations]: http://www.pyladies.com/locations
 [pyladies resource form]: https://docs.google.com/forms/d/1f1jCD_XOf-06ifZkuSvAdCG9_Me0FnDWNxLQZY-JktU/viewform

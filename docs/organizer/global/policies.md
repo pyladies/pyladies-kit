@@ -6,13 +6,13 @@ The following policies have been written up so that you may simply copy and past
 
 ## Trademark
 
-PyLadies and the PyLadies logo are trademarks of the Python Software Foundation. For usage guidelines, please read {doc}`../../misc/logo`.
+PyLadies and the PyLadies logo are trademarks of the Python Software Foundation. For usage guidelines, please read {doc}`../../policies/logo`.
 
 ## Code of Conduct
 
-All PyLadies events (Meetups, conference lunches, etc), online spaces (IRC, Facebook, etc) are beholden to the PyLadies {doc}`../../coc`.
+All PyLadies events (Meetups, conference lunches, etc), online spaces (IRC, Facebook, etc) are beholden to the PyLadies {ref}`coc`.
 
-Every PyLadies location is **required** to make {doc}`../../coc` public in some way.  For instance, PyLadies SF has a dedicated [page] on their Meetup space.
+Every PyLadies location is **required** to make {ref}`coc` public in some way.  For instance, PyLadies SF has a dedicated [page] on their Meetup space.
 The {ref}`PyLadies Slack org<slack>` `#general` channel has a link to the [main website's] Code of Conduct in the topic of the channel.
 
 Please read {doc}`../difficult/responding` for how to appropriately deal with CoC violations.

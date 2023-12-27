@@ -1,6 +1,6 @@
 (logo-policy)=
 
-# PyLadies Logo Usage
+# Logo Usage
 
 PyLadies and the PyLadies logo are trademarks of the Python Software Foundation.  The full trademark usage policy can be read here: {doc}`trademark`.
 

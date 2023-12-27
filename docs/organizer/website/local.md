@@ -1,4 +1,4 @@
-# Creating your own Local Website
+# Create a Chapter Website
 
 Ready to setup your location's website? Great!
 

@@ -1,4 +1,6 @@
-# Developing on the Global PyLadies Website
+# Global PyLadies Website
+
+Learn how to contribute to the Global PyLadies [website](https://pyladies.com).
 
 (setupenv)=
 
