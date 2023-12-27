@@ -62,6 +62,8 @@ html_context = {
     "github_repo": "pyladies-kit",
 }
 
+linkcheck_timeout = 5
+
 # MyST extension configuration
 myst_heading_anchors = 6
 suppress_warnings = ["myst.header", "myst.strikethrough"]
