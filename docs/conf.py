@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 #
+project = "PyLadies Handbook"
+copyright = "2014-2024, PyLadies"
+html_title = "PyLadies Handbook"
+html_short_title = "PyLadies Kit"
+version = "2024.01"
+release = ""
 
 extensions = [
     "myst_parser",
@@ -8,29 +14,18 @@ extensions = [
     "sphinxext.opengraph",
 ]
 
-project = "PyLadies Handbook"
-copyright = "2014-2024, PyLadies"
-
-
-version = "2024.01"
-release = ""
-
 master_doc = "index"
 exclude_patterns = ["_build", "_"]
 source_suffix = ".rst"
 
-
-pygments_style = "sphinx"
-
 html_theme = "furo"
 
 
-html_title = "PyLadies Organizer Handbook"
-html_short_title = "PyLadies Kit"
 html_favicon = "_static/favicon.ico"
 html_static_path = ["_static"]
 html_use_smartypants = True
 htmlhelp_basename = "PyLadiesHandbookdoc"
+html_logo = "_static/images/pylady_geek_rainbow.png"
 
 latex_documents = [
     (
