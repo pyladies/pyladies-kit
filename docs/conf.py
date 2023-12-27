@@ -2,9 +2,10 @@
 #
 
 extensions = [
+    "myst_parser",
     "sphinx.ext.viewcode",
     "sphinx.ext.githubpages",
-    "myst_parser",
+    "sphinxext.opengraph",
 ]
 
 project = "PyLadies Handbook"
