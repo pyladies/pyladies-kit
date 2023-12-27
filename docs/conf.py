@@ -10,7 +10,6 @@ release = ""
 extensions = [
     "myst_parser",
     "sphinx.ext.viewcode",
-    "sphinx.ext.githubpages",
     "sphinxext.opengraph",
 ]
 
