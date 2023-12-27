@@ -15,5 +15,6 @@ If you are not a local PyLadies leader, please check out {doc}`contact`.
 :maxdepth: 1
 
 contact
+council
 pycon
 ```
