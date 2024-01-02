@@ -41,6 +41,8 @@
 * [ ] Clean up any unused cross-references
 * [ ] Add info about 1Password under `organizer/general`
 * [ ] Setup [custom 404](https://docs.readthedocs.io/en/stable/reference/404-not-found.html) and use `sphinx-notfound-page`
+* [ ] Add info about elections, pyladies conference, other websites
+* [ ] Update new chapter process/checklist
 * [x] Update code block styles (I don't like the yellow background in light mode)
 * [x] Migrate all the `*.inc` files (rst format) to MD
 * [x] Do we need `netlify.toml` and `runtime.txt`?
