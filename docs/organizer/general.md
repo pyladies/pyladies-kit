@@ -35,14 +35,9 @@ We highly suggest you use a unique password for each account you use for your Py
 Whether it's Meetup.com or another local event/community site, start the local
 group with the `pyladies.com` email address.
 
-If your Meetup groups' 6-month subscription is \$89.94 USD (or equivalent) or
-more, please contact <mailto:accounting@python.org> to request being added to the PSF
-Meetup Pro network and include a link to your group's code of conduct.
+You must add a link (or the full text) to the {ref}`PyLadies Code of Conduct <coc>` in the "About" section of your Meetup group.
 
-Meetup subscription reimbursement requests should be submitted within 120 days
-from the start of a meetup subscription period or the reimbursement will not be
-approved. For example, if a meetup subscription period begins on June 25, 2018,
-the organizer may submit a grant request before June 25, 2018 or up to October 23, 2018.
+The PSF financially hosts worldwide Python Meetups on their Meetup Pro Network as long as certain conditions are met. Please see the {ref}`FAQ: How do I ask the PSF to cover Meetup fees? <meetup-fee-reimbursement>` for more information.
 
 ## Social Media
 

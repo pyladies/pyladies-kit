@@ -12,7 +12,7 @@ Everything is listed in {doc}`checklist`, but an overview of the process is:
 3. Fill out the initial interest form (linked in the checklist).
 4. If you haven't heard from anyone within a week, please [ping us]!  Once you do, you will be given a PyLadies email address, which is also your Google Apps account.
 5. Sign up for ALL the things with your new PyLadies email address, like Meetup.com, Twitter, Facebook, or anything that's relevant to your location.
-6. If you have signed up for Meetup, you may request reimbursement of fees paid from the Python Software Foundation.  Check out their [grant process] for more information, as well as a {doc}`../organizer/grants/sample-meetup-proposal`.
+6. If you are using Meetup: The PSF financially hosts worldwide Python Meetups on their Meetup Pro Network as long as certain conditions are met. Please see the {ref}`FAQ: How do I ask the PSF to cover Meetup fees? <meetup-fee-reimbursement>` for more information.
 7. Think about how you want to setup your website (e.g. a static HTML/CSS/JS site, or a dynamic site with Django/Flask/etc).  More information in {doc}`../organizer/website/local`
 8. Fill out the PyLadies resource form with all the new accounts (linked in the checklist).
 9. Start hosting events!
