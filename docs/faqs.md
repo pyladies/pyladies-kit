@@ -58,15 +58,17 @@ TL;DR is that any of the graphics in our [PyLadies assets repo] can be used for 
 
 Logos used with the intention to sell merchandise, please seek permission from the [PyLadies leadership].
 
-### How do I set up reimbursement for Meetup fees?
+(meetup-fee-reimbursement)=
+### How do I ask the PSF to cover Meetup fees?
 
-If the groups' Meetup 6-month subscription is \$89.94 or more, please contact <mailto:accounting@python.org>
-to request being added to the PSF Meetup Pro network and include a link to your group's code of conduct.
+The PSF financially hosts worldwide Python Meetups on their [Meetup Pro Network](https://www.meetup.com/pro/python-software-foundation-meetups) as long as 3 conditions are met:
 
-Meetup subscription reimbursement requests should be submitted within 120 days
-from the start of a meetup subscription period or the reimbursement will not be approved.
-For example, if a meetup subscription period begins on June 25, 2018,
-the organizer may submit a grant request before June 25, 2018 or up to October 23, 2018.
+1. The Meetup holds at least 2 events per calendar year (virtual or in-person).
+2. Event content focuses on Python content at least 70% of the time. Content may include adjacent topics, such as networking, basic machine learning, etc.   
+3. The Meetup posts the PyLadies {ref}`Code of Conduct <coc>` in the About tab of the Meetup page to become and stay eligible for the PSF Meetup Pro network.
+
+Please [submit a grant request from the PSF](https://psfmember.org/grant-proposals/). In order to access the form, you may first have to create a free account on the [psfmember.org](https://psfmember.org/) website. Please send questions to [psf-grants@python.org](mailto:psf-grants@python.org).
+
 
 ## What if my question isn’t answered here?
 
