@@ -85,6 +85,8 @@ myst_enable_extensions = [
 
 set_announcement = True
 current_announcement_html = """
+Introducing the new <b><a href="https://pyladies.com/blog/Announcing-The-Outstanding-PyLady-Award/outstanding-award/">Outstanding PyLady Award</a>!</b> <a href="https://kit.pyladies.com/en/latest/global/award.html">Nominate an outstanding PyLady</a> by February 4th, 2024 in time for PyCon US!
+<br/>
 <b>PyCon US 2024:</b> <a href='https://us.pycon.org/2024/attend/travel-grants/'>Apply for a travel grant</a> by February 16th, 2024!
 """
 if set_announcement:
