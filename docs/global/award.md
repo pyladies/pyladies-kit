@@ -50,6 +50,10 @@ remaining details that the Global Council needs to sort out:
 * Should we also announce on social media?
 * How should we handle nominees who have received the PSF [Community] or [Distinguished] Service awards for similar reasons?
 
+### Questions? Feedback? Ideas?
+
+If you have any questions, thoughts, feedback, we'd love to hear them! Reach out to the Global Council at [council[at]pyladies.com][email].
+
 
 [this Google form]: https://docs.google.com/forms/d/e/1FAIpQLSccnm4kYFez8SPWJD7ZfaAojHZE0qoLF_MLarGzzzc3pcY-xA/viewform
 [AOE]: https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -57,3 +61,4 @@ remaining details that the Global Council needs to sort out:
 [blog]: https://pyladies.com/blog
 [Community]: https://www.python.org/community/awards/psf-awards/
 [Distinguished]: https://www.python.org/community/awards/psf-distinguished-awards/
+[email]: mailto:council@pyladies.com
