@@ -20,8 +20,15 @@ Python community member may nominate a PyLady at any time. Self-nominations are 
 must be made through [this Google form] (optionally anonymous). The Council will contact nominators to
 keep them informed of the status of their nominations.
 
-While it would be unusual for a single individual to receive multiple awards, repeated awards will be 
-appropriate to acknowledge ongoing contributions.
+While it would be unusual and rare for a single individual to receive multiple Outstanding PyLady 
+awards, or to be awarded the Outstanding PyLady Award after receiving a PSF [Community] or 
+[Distinguished] Service Awards for the same contributions, repeated awards may be appropriate to 
+acknowledge ongoing or new contributions. 
+
+Current sitting members of the Global Council may not be considered for the award while they are 
+serving on the Council. However, they may be awarded for their contributions after having served.
+Nominators who wish to recognize a current Global Council member may consider submitting a nomination 
+to the [PSF] for a [Community] Service Award or [Distinguished] Service Award.
 
 Award winners will be recognized at the next PyCon US. While nominations are accepted year-round, the 
 cut-off date to have nominations considered in time for the upcoming PyCon is the end of the 
@@ -35,24 +42,31 @@ accepting nominations until February 4th, 2024 [AOE]. Nominations received after
 still be considered, but may not be notified in time for PyCon US 2024.
 :::
 
-Award winners will receive an award certificate plus one free registration to PyCon US (ideally, the
-upcoming PyCon US to receive the award) and the opportunity to apply for a grant for travel and 
-accommodation expenses. 
+## Recognition
 
-### Remaining Details
+Winners of the Outstanding PyLady award will be notified by the Global Council.
 
-The full award process and award details are still being worked out. To be transparent, these are the
-remaining details that the Global Council needs to sort out:
+Recognition will take the form of an award certificate, plus **one** of the following:
 
-* Finalization of award gifts (in addition to what's already stated above)
-* Should we keep a public record (e.g. on this doc) of historial winners? With the option to opt-out
-* If yes to above, where should the public record be? On this doc? on the [PyLadies website]? [Blog]? elsewhere?
-* Should we also announce on social media?
-* How should we handle nominees who have received the PSF [Community] or [Distinguished] Service awards for similar reasons?
+1. Free registration and travel assistance (if needed) to the following PyCon US[^1] ; or
+2. A cash award of $1000 USD (Non-US based recipients will be subject to the Federal US tax 
+withholding of 30% unless all requirements are met, according to the Python Software Foundation's 
+[Vendor Policies]. Contact [accounting[at]python.org][acctpsf] with any questions).
 
-### Questions? Feedback? Ideas?
+[^1]: An award winner may choose a future PyCon US if they can not attend the next upcoming conference.
 
-If you have any questions, thoughts, feedback, we'd love to hear them! Reach out to the Global Council at [council[at]pyladies.com][email].
+Historical winners will be listed on this page as well as on PyLadies' social media outlets and blog, 
+but awardees may elect to opt out of any publication of their names, as well as remove their names
+if personal preferences change.
+
+## Historical Winners
+
+_Initial winners to be announced at PyCon 2024!_
+
+## Questions? Feedback? Ideas?
+
+If you have any questions, thoughts, feedback, we'd love to hear them! Reach out to the Global Council 
+at [council[at]pyladies.com][email].
 
 
 [this Google form]: https://docs.google.com/forms/d/e/1FAIpQLSccnm4kYFez8SPWJD7ZfaAojHZE0qoLF_MLarGzzzc3pcY-xA/viewform
@@ -62,3 +76,6 @@ If you have any questions, thoughts, feedback, we'd love to hear them! Reach out
 [Community]: https://www.python.org/community/awards/psf-awards/
 [Distinguished]: https://www.python.org/community/awards/psf-distinguished-awards/
 [email]: mailto:council@pyladies.com
+[acctpsf]: mailto:accounting@python.org
+[PSF]: mailto:psf@python.org
+[Vendor Policies]: https://www.python.org/psf/vendorpolicies/
