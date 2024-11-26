@@ -34,9 +34,9 @@ In addition to what the [scope](#scope) below includes for whom the CoC applies,
 In addition to the [PSF contact information](#contact-information) available for reporting violations
 or raising concerns, you can also reach out to [coc@pyladies.com](mailto:coc@pyladies.com) which is
 monitored by Tania Allard and Bethany Garcia. There is also the `@admin` group within the global 
-[PyLadies Slack organization](pyladies.slack.com) (join via [slackin.pyladies.com]
-(https://slackin.pyladies.com) that you can privately message (click into the `@admin` group to see
-the individuals who are a part of the group), as well as the `#pyladies-support` channel.
+[PyLadies Slack organization](pyladies.slack.com) (join via [slackin.pyladies.com](https://slackin.pyladies.com)) 
+that you can privately message (click into the `@admin` group to see the individuals who are a part 
+of the group), as well as the `#pyladies-support` channel.
 ```
 
 ## Python Software Foundation Code of Conduct
