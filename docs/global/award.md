@@ -61,7 +61,14 @@ if personal preferences change.
 
 ## Historical Winners
 
-_Initial winners to be announced at PyCon 2024!_
+### 2024
+
+* [Abigail Mesrenyame Dogbe](https://www.linkedin.com/in/abigail-mesrenyame-dogbe)
+* [Jessica Greene](https://www.linkedin.com/in/jessica0greene)
+* [Maaya Ishida](https://jp.linkedin.com/in/maaya-ishida-5486b7109)
+
+Check out the [blog post](https://pyladies.com/blog/Inaugural-Winners-of-the-Outstanding-PyLady-Award/outstanding-pylady-winners/)
+that announces our inaugural winners!
 
 ## Questions? Feedback? Ideas?
 
