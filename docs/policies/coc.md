@@ -1,43 +1,12 @@
 # Code of Conduct
 
 As a fiscal sponsoree of the Python Software Foundation, we adhere to their Code of Conduct.
-It is copied below, but refer to the [PSF's CoC] for the most recent version. In addition, 
-refer to the [PSF's policies] for:
+It is copied below with the adaptation of [scope](#scope) and contact information to PyLadies; refer
+to the [PSF's CoC] for the most recent version. In addition, refer to the [PSF's policies] for:
 
 * [a best practices guide for a Code of Conduct for Events][events], 
 * the [PSF's Code of Conduct Working Group Enforcement Procedures][procedures], and 
 * the [PSF's Community Member Procedure for Reporting Code of Conduct Incidents][incidents].
-
-```{attention} Scope Adaptations for PyLadies
-In addition to the [Scope](#scope) detailed below, this is also applicable to PyLadies related events
-and online spaces. This includes:
-
-* local PyLadies chapter events and meetups
-* PyLadies global events at Python conferences
-* PyLadies-focused conferences
-* PyLadies local and global mailing lists
-* PyLadies local and global Slack organizations
-* code repositories, issues, and pull requests within any PyLadies-controlled GitHub organization
-* comments & responses made on official PyLadies organization & PyLadies conference social media accounts, hashtags, and hosted media
-* any other online space administered by PyLadies
-
-In addition to what the [scope](#scope) below includes for whom the CoC applies, it also applies to:
-
-* PyLadies Global Council members
-* PyLadies chapter organizers and leaders
-* PyLadies maintainers, reviewers, and contributors
-* PyLadies online administrators
-* all community members
-```
-
-```{attention} Additional Contacts
-In addition to the [PSF contact information](#contact-information) available for reporting violations
-or raising concerns, you can also reach out to [coc@pyladies.com](mailto:coc@pyladies.com) which is
-monitored by Tania Allard and Bethany Garcia. There is also the `@admin` group within the global 
-[PyLadies Slack organization](pyladies.slack.com) (join via [slackin.pyladies.com](https://slackin.pyladies.com)) 
-that you can privately message (click into the `@admin` group to see the individuals who are a part 
-of the group), as well as the `#pyladies-support` channel.
-```
 
 ## Python Software Foundation Code of Conduct
 
@@ -101,78 +70,80 @@ Thank you for helping make this a welcoming, friendly community for everyone.
 
 ### Scope
 
-#### PSF Events
+#### PyLadies Events
 
-This Code of Conduct applies to the following people at events hosted by the Python Software Foundation, and [events hosted by projects under the PSF's fiscal sponsorship](https://www.python.org/psf/fiscal-sponsorees/):
+This Code of Conduct applies to the following people at events hosted by PyLadies (globally and locally):
 
- * staff
- * Python Software Foundation board members
- * speakers
- * panelists
- * tutorial or workshop leaders
- * poster presenters
- * people invited to meetings or summits
- * exhibitors
- * organizers
- * volunteers
- * all attendees
+* staff
+* Global Council members
+* chapter organizers and leaders
+* speakers
+* panelists
+* tutorial or workshop leaders
+* poster presenters
+* people invited to meetings or summits
+* exhibitors
+* organizers
+* volunteers
+* all attendees
 
 The Code of Conduct applies in official venue event spaces, including:
 
-  * exhibit hall or vendor tabling area
-  * panel and presentation rooms
-  * hackathon or sprint rooms
-  * tutorial or workshop rooms
-  * poster session rooms
-  * summit or meeting rooms
-  * staff areas
-  * con suite
-  * meal areas
-  * party suites
-  * walkways, hallways, elevators, and stairs that connect any of the above spaces
+* exhibit hall or vendor tabling area
+* panel and presentation rooms
+* hackathon or sprint rooms
+* tutorial or workshop rooms
+* poster session rooms
+* summit or meeting rooms
+* fundraising rooms
+* staff areas
+* con suite
+* meal areas
+* party suites
+* walkways, hallways, elevators, and stairs that connect any of the above spaces
 
 The Code of Conduct applies to interactions with official event accounts on social media spaces and phone applications, including:
 
-  * comments made on official conference phone apps
-  * comments made on event video hosting services
-  * comments made on the official event hashtag or panel hashtags
+* comments and replies to official social media accounts
+* comments made on official conference phone apps
+* comments made on event video hosting services
+* comments made on the official event hashtag or panel hashtags
 
-Event organizers will enforce this code throughout the event. Each event is required to provide a Code of Conduct committee that receives, evaluates, and acts on incident reports. Each event is required to provide contact information for the committee to attendees. The event Code of Conduct committee may (but is not required to) ask for advice from the Python Software Foundation Code of Conduct work group. The Python Software Foundation Code of Conduct work group can be reached by emailing <conduct-wg@python.org>.
+Event organizers will enforce this code throughout the event. Each event is required to provide a Code of Conduct committee that receives, evaluates, and acts on incident reports. Each event is required to provide contact information for the committee to attendees. The event Code of Conduct committee may (but is not required to) ask for advice from the PyLadies Code of Conduct work group. The PyLadies Code of Conduct work group can be reached by emailing <coc@pyladies.com>.
 
-#### PSF Online Spaces
+#### PyLadies Online Spaces
 
-This Code of Conduct applies to the following online spaces:
+This Code of Conduct applies to the following online spaces, both for the global organization as well as any local chapters:
 
- * The [python-ideas](https://mail.python.org/mailman/listinfo/python-ideas), [core-mentorship](https://mail.python.org/mm3/mailman3/lists/core-mentorship.python.org/), [python-dev](https://mail.python.org/mailman/listinfo/python-dev), [docs](https://mail.python.org/mailman/listinfo/docs) mailing lists
- * All other [mailing lists hosted on python.org](https://mail.python.org/mailman/listinfo)
- * Python Software Foundation Zulip chat server
- * Python Software Foundation hosted Discourse server [discuss.python.org](https://discuss.python.org/)
- * Code repositories, issue trackers, and pull requests made against any Python Software Foundation controlled GitHub organization
- * The python.org mercurial server [hg.python.org](https://hg.python.org/)
- * Any other online space administered by the Python Software Foundation
+* Any mailing lists created for the purpose of communicating with all or a subset of the PyLadies community
+* PyLadies Slack organizations
+* Code repositories, issue trackers, and pull requests made against any PyLadies-controlled GitHub organization
+* Discussion boards administered by PyLadies
+* Any other online space administered by PyLadies
 
-This Code of Conduct applies to the following people in official Python Software Foundation online spaces:
+This Code of Conduct applies to the following people in official PyLadies online spaces:
 
- * PSF Members, including Fellows
- * admins of the online space
- * maintainers
- * reviewers
- * contributors
- * all community members
+* admins of the online space
+* maintainers
+* reviewers
+* contributors
+* all community members
 
-Each online space listed above is required to provide the following information to the Python Software Foundation Code of Conduct work group:
+Each online space listed above is required to provide the following information to the PyLadies Code of Conduct work group:
 
- * contact information for any administrators/moderators
+* contact information for any administrators/moderators
 
 Each online space listed above is encouraged to provide the following information to community members:
 
- * a welcome message with a link to this Code of Conduct and the contact information for making an incident report <conduct-wg@python.org>
+* a welcome message with a link to this Code of Conduct and the contact information for making an incident report <coc@pyladies.com>.
 
 The Python Software Foundation Code of Conduct work group will receive and evaluate incident reports from the online communities listed above. The Python Software Foundation Code of Conduct work group will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, the Python Software Foundation Code of Conduct work group may choose to notify the Python Software Foundation board.
 
 ### Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Python Software Foundation Code of Conduct work group immediately. They can be reached by emailing <conduct-wg@python.org>
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the PyLadies Code of Conduct working group immediately. They can be reached by emailing <coc@pyladies.com>. This email is monitored by Tania Allard and Bethany Garcia.
+
+If there is any issue with the PyLadies Code of Conduct working group, please contact a member of the Python Software Foundation Code of Conduct work group. They can be reached by emailing <conduct-wg@python.org>.
 
 ### Procedure for Handling Incidents
 
