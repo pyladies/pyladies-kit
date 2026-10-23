@@ -77,6 +77,8 @@ What you can do to prepare together:
 3. Practice talks in front of each other, in a small group.
 4. Practice in a larger group, as a joint event with the local Python user group.
 
+For a practice talk with an online audience, the optional [Hybrid-room pointing rehearsal record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) (Light Tracer, CC BY 4.0) is a two-page blank worksheet for a presenter and observer to check an indicated detail in the room, shared view and any permitted rehearsal recording, then note one change and a recheck.
+
 Conferences can be stressful, but they’re also a lot of fun, particularly if you’re attending with a friend or a small group. There's also a good chance you will run into PyLadies from other groups!
 
 ## Event Checklist
